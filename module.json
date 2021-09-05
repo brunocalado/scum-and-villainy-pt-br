@@ -7,9 +7,9 @@
   "minimumCoreVersion":"0.8.8",
   "compatibleCoreVersion":"0.8.9",
   "esmodules": ["babele-register.js"],
-  "url":"",
-  "manifest": "",
-  "download": "",
+  "url":"https://github.com/brunocalado/scum-and-villainy-pt-br",
+  "manifest": "https://raw.githubusercontent.com/brunocalado/scum-and-villainy-pt-br/main/module.json",
+  "download": "https://codeload.github.com/brunocalado/scum-and-villainy-pt-br/zip/main",
    "languages":[
       {
          "lang": "pt-BR",
