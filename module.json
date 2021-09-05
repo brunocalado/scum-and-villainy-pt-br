@@ -1,0 +1,31 @@
+{
+  "name":"scum-and-villainy-pt-br",
+  "title":"Scum and Villainy - Português (Brasil)",
+  "description":"",
+  "version":"0.0.1",
+  "author":"Mestre Digital",
+  "minimumCoreVersion":"0.8.8",
+  "compatibleCoreVersion":"0.8.9",
+  "esmodules": ["babele-register.js"],
+  "url":"",
+  "manifest": "",
+  "download": "",
+   "languages":[
+      {
+         "lang": "pt-BR",
+         "name": "Português (Brasil)",
+         "path":"pt-br.json"
+      }
+   ],
+   "dependencies":[
+      {
+         "name":"babele",
+         "manifest":"https://gitlab.com/riccisi/foundryvtt-babele/raw/master/module/module.json"
+      }
+   ],
+  
+  "systems": [
+    "scum-and-villainy"
+  ]
+  
+}
