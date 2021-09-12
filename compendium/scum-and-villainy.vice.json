@@ -1,0 +1,41 @@
+{
+	"label": "Vícios",
+  "mapping": {
+    "description": "data.description"
+  },
+  
+	"entries": {
+		"Faith": {
+			"name": "Fé",
+      "description": "Você faz parte de um culto ou observa cerimônias específicas em intervalos regulares."
+		},
+		"Gambling": {
+			"name": "Jogatina",
+      "description": "Você anseia por jogar jogos de azar ou apostas em eventos esportivos, etc."
+		},
+		"Home Cooking": {
+			"name": "Cozinha Caseira",
+      "description": "Você pode aproveitar os talentos culinários da tripulação. (Requer a Habilidade Especial Cozinha Caseira da Dançarina Estelar)"
+		},
+		"Luxury": {
+			"name": "Luxo",
+      "description": "Você busca um padrão de vida elevado, com exibições caras e ostentosas de riqueza."
+		},
+		"Obligation": {
+			"name": "Obrigações",
+      "description": "Você é dedicado a uma família, causa, organização, instituição de caridade, etc."
+		},
+		"Pleasure": {
+			"name": "Prazer",
+      "description": "Você busca gratificação hedonista com amantes, comida, bebida, drogas, arte, etc."
+		},
+		"Stupor": {
+			"name": "Estupor",
+      "description": "Você anestesia os sentidos com o uso de drogas, consumo excessivo de álcool, luta até a exaustão, etc."
+		},
+		"Weird": {
+			"name": "Estranho",
+      "description": "Você realiza experiências estranhas, explora o Caminho, comunga com artefatos de Ur e assim por diante."
+		}
+	}
+}

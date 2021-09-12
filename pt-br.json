@@ -1,6 +1,6 @@
 {
   "BITD.HelloThere": "General Kenobi",
-  "BITD.Heritage": "Raízes",
+  "BITD.Heritage": "Hereditariedade",
   "BITD.Background": "Histórico",
   "BITD.TitleDeleteItem": "Deletar",
   "BITD.Vice": "Vício",
@@ -19,11 +19,11 @@
   "BITD.Factions": "Facções Ativas",
   "BITD.Notables": "Pontos de Interesse",
   "BITD.NotableNPCs": "Pessoas de Destaque",
-  "BITD.GoalClockMax": "Faction Clock Size",
+  "BITD.GoalClockMax": "Tamanho do Relógio de Facção",
   "BITD.Scene": "Scene",
   "BITD.Rule": "Regra",
   "BITD.Stats": "Atributos",
-  "BITD.Turf": "Turf",
+  "BITD.Turf": "Território",
   "BITD.Goal": "Objetivo",
   "BITD.Assets": "Bens",
   "BITD.Quirks": "Peculiaridade",
@@ -94,9 +94,9 @@
   "BITD.ClassExpClue3": "Você teve problemas com seu vício ou traumas.",
   "BITD.ClassExpClueDescription": "No final da sessão, revise os gatilhos de xp em sua cartilha. Para cada um, marque 1 xp (cartilha ou atributo) se aconteceu uma vez, ou marque 2 xp se aconteceu muitas vezes durante a sessão.",  
   "BITD.CrewExpClueDescription": "No final da sessão, reveja os gatilhos de xp da tripulação e marque 1 xp de tripulação para cada item que tenha ocorrido durante a sessão. Se um item ocorreu várias vezes ou de forma impressionante, marque 2 xp de tripulação para ele.",
-  "BITD.CrewExpClue2": "You contended with challenges above your current station.",
-  "BITD.CrewExpClue3": "You bolstered your crew’s reputation or developed a new one.",
-  "BITD.CrewExpClue4": "You expressed the goals, drives, inner conflict, or essential nature of the crew.",
+  "BITD.CrewExpClue2": "Lide com desafios acima de sua posição atual.",
+  "BITD.CrewExpClue3": "Aumente a reputação da sua tripulação ou desenvolva uma nova.",
+  "BITD.CrewExpClue4": "Expresse os objetivos, impulsos, conflitos internos ou a natureza essencial da tripulação.",
   "BITD.Coin": "Cred",
   "BITD.Coins": "Cred",
   "BITD.Stash": "Reserva",
@@ -114,9 +114,9 @@
   "BITD.Notes": "Anotações",
   "BITD.AllItems": "Todos",
   "BITD.CrewXP": "XP Bando",
-  "BITD.CrewExpClue1": "At the end of each session, for each item below, mark 1 xp (or instead mark 2xp if that item occurred multiple times).",
+  "BITD.CrewExpClue1": "No final da sessão, reveja os gatilhos de xp da tripulação e marque 1 xp de tripulação para cada item que tenha ocorrido durante a sessão (se um item ocorreu várias vezes ou de forma impressionante, marque 2 xp).",
   "BITD.SpecialAbilities": "Habilidades Especiais",
-  "BITD.AddUpgrades": "Default upgrades/gear to add to sheet during creation",
+  "BITD.AddUpgrades": "Melhorias/Equipamento padrão que serão adicionados a ficha na criação",
 
 
   "BITD.Roll": "Rolar",
@@ -124,6 +124,7 @@
   "BITD.RollCriticalSuccess": "Crítico!",
   "BITD.RollSuccess": "Sucesso",
   "BITD.RollPartialSuccess": "Sucesso Parcial",
+  "BITD.Fortune": "Sorte!",
   "BITD.FortuneRoll": "Rolagem de Sorte!",
   "BITD.RollTokenDescription": "+1d por cada valor de <strong>Característica</strong> e +1d por cada <strong>Vantagem Maior</strong>, -1d por cada <strong>Desvantagem Maior</strong>.<br><br>Para <strong>Rolagem de Abertura</strong> começe com 1d para sorte pura!",
   "BITD.RollNumberOfDice": "Número de Dados",
@@ -245,7 +246,7 @@
   "BITD.SystemsDamage": "Dano",
   "BITD.SystemsSkips": "Calotes",
 
-  "BITD.PExperience": "XP da Cartilha ",
+  "BITD.PExperience": "XP ",
   "BITD.CExperience": "XP da Tripulação ",
   "BITD.AExperience": "XP ",
 
@@ -263,8 +264,8 @@
   "BITD.item": "Item",
   "BITD.class": "Cartilha",
   "BITD.ability": "Ability",
-  "BITD.heritage": "Heritage",
-  "BITD.background": "Background",
+  "BITD.heritage": "Hereditariedade",
+  "BITD.background": "Histórico",
   "BITD.vice": "Vício",
   "BITD.crew_type": "Tipo de Nave",
   "BITD.crew_reputation": "Reputação da Tripulação",
@@ -283,12 +284,13 @@
   "BITD.BaseDice": "Dados Base",
   "BITD.TotalDice": "Total de Dados",
   "BITD.RollOptions": "Opções de Rolagem",
-
-
+   
     
-  "BITD.ActionsHelp": "Role 1d para cada ponto de valor da ação (-1d por dano).  Aumente suas chances de sucesso com as seguintes opções:<br><strong>Obtenha Assistência:</strong> +1d se outro membro da tripulação o ajudar, então aquele PC toma <strong>1 estresse</strong>.<br><strong>Gaste um Gambito:</strong> +1d se gastar <strong>1 gambito</strong> (só pode gastar 1 por rolagem).<br><strong>Esforço Extra:</strong> Receba <strong>2 estresse</strong> para ter +1d, mas você não pode fazer <strong>Acordo com o Diabo</strong>.<br><strong>Acordo com o Diabo:</strong> Aceite uma <strong>consequencia</strong> para obter +1d, mas você não pode fazer <strong>Esforço Extra</strong>.<br><strong>Ação Coletiva:</strong> Cada PJ envolvido faz uma rolagem de ação (usando a mesma ação) e a equipe usa o melhor resultado individual como o esforço geral. No entanto, o PJ que lidera a ação do grupo recebe <strong>1 de estresse</strong> para cada PJ que tenha obtido 1-3 como seu melhor resultado.<br><strong>Setup Action:</strong> If this action roll succeeds and it makes sense in the fiction, give improved position or effect to the next PC's action roll",
+  "BITD.ActionsHelp": "Role 1d para cada ponto de valor da ação (-1d por dano).  Aumente suas chances de sucesso com as seguintes opções:<br><strong>Obtenha Assistência:</strong> +1d se outro membro da tripulação o ajudar, então aquele PC toma <strong>1 estresse</strong>.<br><strong>Gaste um Gambito:</strong> +1d se gastar <strong>1 gambito</strong> (só pode gastar 1 por rolagem).<br><strong>Esforço Extra:</strong> Receba <strong>2 estresse</strong> para ter +1d, mas você não pode fazer <strong>Acordo com o Diabo</strong>.<br><strong>Acordo com o Diabo:</strong> Aceite uma <strong>consequencia</strong> para obter +1d, mas você não pode fazer <strong>Esforço Extra</strong>.<br><strong>Ação Coletiva:</strong> Cada PJ envolvido faz uma rolagem de ação (usando a mesma ação) e a equipe usa o melhor resultado individual como o esforço geral. No entanto, o PJ que lidera a ação do grupo recebe <strong>1 de estresse</strong> para cada PJ que tenha obtido 1-3 como seu melhor resultado.<br><strong>Facilitar:</strong> Se sua ação for sucesso, qualquer membro da equipe que segue em sua manobra recebe +1 efeito ou posição melhorada para sua jogada.",
   "BITD.ViceHelp": "Faça uma rolagem de atributo usando o nível de <strong>atributo mais baixo</strong> de seu PJ (Esperteza, Valentia ou Convicção).<br><br>Se você rolar um resultado superior à quantidade de estresse do PJ, ele <strong>Passa da Conta</strong>.",
-  "BITD.ResistanceHelp": "Roll 1d per action rating for the relevant attribute to reduce or completely avoid (GM's choice) the effects of consequences.<br>Take 6 minus the highest die result as <strong>stress</strong><br><strong>Insight:</strong> consequences from deception or understanding<br><strong>Prowess:</strong> consequences from physical strain or injury<br><strong>Resolve:</strong> consequences from mental strain or willpower",
+  
+  "BITD.ResistanceHelp": "Faça a rolagem usando um dos atributos (Esperteza, Valentia ou Convicção) para <strong>reduzir</strong> ou <strong>evitar</strong> (Escolha do Mestre) os efeitos das consequências.<br>Seu personagem sofre 6 de <strong>Estresse</strong> menos o resultado do dado mais alto da rolagem de resistência.<br><strong>Esperteza:</strong> Consequências de engano ou compreensão.<br><strong>Valentia:</strong> Consequências de esforço físico ou lesão.<br><strong>Convicção:</strong> Consequências de tensão mental ou força de vontade.",
+  
   "BITD.CrewHelp": "Roll 1d per crew rating to test the effectiveness of tools, weapons, or resources.  Add +1d for <strong>fine</strong> items.",
   "BITD.UpkeepHelp": "Role 1d para cada vez que pular o pagamento de manutenção (incluindo esse). Isso vai refletir desgaste e dano em sua nave que poderá ter consequências futuras.",
  
@@ -305,5 +307,5 @@
   "BITD.EffectDelete": "Deletar",
   "BITD.EffectWarning": "Managing Active Effects within an Owned Item is not currently supported by FoundryVTT and will be added in a subsequent update.",
 
-  "BITD.ClockSettingDefaultTheme": "Default Clock Theme:"
+  "BITD.ClockSettingDefaultTheme": "Tema Padrão de Relógio:"
 }

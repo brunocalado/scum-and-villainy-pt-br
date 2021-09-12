@@ -1,0 +1,41 @@
+{
+	"label": "Planets",
+	"entries": {
+		"Aketi": {
+			"name": "Aketi"
+		},
+		"Amerath": {
+			"name": "Amerath"
+		},
+		"Indri": {
+			"name": "Indri"
+		},
+		"Lithios": {
+			"name": "Lithios"
+		},
+		"Mem": {
+			"name": "Mem"
+		},
+		"Nightfall": {
+			"name": "Nightfall"
+		},
+		"Outpost SB-176": {
+			"name": "Outpost SB-176"
+		},
+		"Shimaya": {
+			"name": "Shimaya"
+		},
+		"Sonhandra": {
+			"name": "Sonhandra"
+		},
+		"The Cove": {
+			"name": "The Cove"
+		},
+		"Vos": {
+			"name": "Vos"
+		},
+		"Warren": {
+			"name": "Warren"
+		}
+	}
+}

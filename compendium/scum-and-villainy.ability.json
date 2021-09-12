@@ -1,0 +1,360 @@
+{
+	"label": "Habilidades",
+  "mapping": {
+    "description": "data.description",
+    "class":"data.class"
+  },
+  
+	"entries": {
+		"(Me) Analyst": {
+			"name": "(Me) Analista",
+      "description": "Ao hackear um sistema você também pode perguntar sobre o dono ou a localização do sistema como se tirasse um 6 em levantar informações.\n\nAo resistir às consequências de hackear, role +1d.",
+      "class":"Mecânico"      
+		},
+		"(Me) Bailing Wire and Mech Tape": {
+			"name": "(Me) Fio de Remendo e Fita-Mech",
+      "description": "Você obtém uma atividade de folga extra para reparo, e a atividade de reparo custa 0 cred.",
+      "class":"Mecânico"      
+		},
+		"(Me) Construct Whisperer": {
+			"name": "(Me) Fala Com Máquinas",
+      "description": "As máquinas falam contigo quando as estuda.\n\nA primeira vez em que você rolar um crítico ao consertar ou construir uma máquina em particular, você pode adicionar uma modificação simples a ela (veja Construção, página 282).",
+      "class":"Mecânico"      
+		},
+		"(Me) Fixed": {
+			"name": "(Me) Fixed",
+      "description": "",
+      "class":"Mecânico"
+		},
+		"(Me) Hacker": {
+			"name": "(Me) Hacker",
+      "description": "Você pode gastar armadura especial para resistir às consequências de Hackear ou para se esforçar ao Hackear ou levantar informações eletronicamente.",
+      "class":"Mecânico"      
+		},
+		"(Me) Junkyard Hunter": {
+			"name": "(Me) Catador de Ferro-Velho",
+      "description": "Ao adquirir peças ou equipamentos durante a folga, pode ganhar dois recursos ou um recurso com qualidade +1.",
+      "class":"Mecânico"      
+		},
+		"(Me) Mechanic's Heart": {
+			"name": "(Me) Coração do Mecânico",
+      "description": "Ao falar com o seu coração, suas palavras podem alcançar até mesmo o criminoso mais endurecido, e você ganha potência.",
+      "class":"Mecânico"      
+		},
+		"(Me) Overclock": {
+			"name": "(Me) Overclock",
+      "description": "Ao gastar um gambito para uma rolagem de montar ou melhorar, trate o sistema em que trabalha como qualidade 1 até o fim do trabalho corrente.",
+      "class":"Mecânico"      
+		},
+		"(Me) Tinker": {
+			"name": "(Me) Funileiro",
+      "description": "Ao trabalhar em um relógio com montar ou hackear ou ao estudar um esquema, preencha +1 fatia.\n\nObserve que as habilidades iniciais não podem ser escolhidas por meio da habilidade especial de Veterano.",
+      "class":"Mecânico"      
+		},
+		"(Me) Xeno": {
+			"name": "(Me) Xeno",
+      "description": "Você pode gastar Estresse (0-2) para realizar um feito sobrehumano que apenas os membros de sua espécie são capazes. (Página 296)\n\nCada espécie possui Mecânicos, então, ao jogar com um xeno, considere como esse xenótipo se relaciona com as máquinas.\n\nAlguns xenos têm uma relação incomum com a tecnologia (particularmente a baseada em Ur), como os Sah’iir, enquanto outros usam materiais incomuns, como o Mem.",
+      "class":"Mecânico"      
+		},
+		"(Mu) Backup": {
+			"name": "(Mu) Reforço",
+      "description": "O esforço de um aliado custa 1 de estresse (não 2) em qualquer ação que você facilitar ou ajudar.",
+      "class":"Músculo"      
+		},
+		"(Mu) Battleborn": {
+			"name": "(Mu) Nascido para a Batalha",
+      "description": "Você pode gastar sua armadura especial para reduzir os danos de um ataque em combate ou para se esforçar durante uma luta.",
+      "class":"Músculo"      
+		},
+		"(Mu) Bodyguard": {
+			"name": "(Mu) Guarda-Costas",
+      "description": "Ao proteger um membro da tripulação, resista com +1d. Ao levar dano, elimine 1 de estresse.",
+      "class":"Músculo"      
+		},
+		"(Mu) Flesh Wound": {
+			"name": "(Mu) Ferimento Leve",
+      "description": "Se você estiver ferido no início da folga, marque +3 fatias em seu relógio de cura.\n\nAo se esforçar para ignorar as penalidades por ferimentos, recebe apenas 1 de estresse (não 2).",
+      "class":"Músculo"      
+		},
+		"(Mu) Predator": {
+			"name": "(Mu) Predador",
+      "description": "Receba +1d em rolagens contra alvos enfraquecidos ou vulneráveis.\n\nSempre ao levantar informações sobre uma fraqueza ou vulnerabilidade, o pior que pode obter é um resultado 4/5.",
+      "class":"Músculo"      
+		},
+		"(Mu) Ready For Anything": {
+			"name": "(Mu) Pronto para o que Vier",
+      "description": "Ao ser emboscado, você ganha potência para todas as ações durante um flashback, e seu primeiro flashback custa 0 de estresse.",
+      "class":"Músculo"      
+		},
+		"(Mu) Scary": {
+			"name": "(Mu) Assustador",
+      "description": "Você exala um ar de ameaça e perigo óbvio.\n\nGanhe potência ao tentar intimidar alguém. Se feito imediatamente após uma demonstração de força, também receba +1d.",
+      "class":"Músculo"      
+		},
+		"(Mu) Unstoppable": {
+			"name": "(Mu) Imparável",
+      "description": "Você pode se esforçar para fazer uma das seguintes coisas:\n\nrealizar um feito de força física beirando o sobre-humano – encarar uma pequena gangue em pé de igualdade no combate corpo a corpo.\n\nObserve que as habilidades iniciais não podem ser escolhidas por meio da habilidade especial de Veterano.",
+      "class":"Músculo"      
+		},
+		"(Mu) Wrecking Crew": {
+			"name": "(Mu) Equipe de Demolição",
+      "description": "Sua força e ferocidade são infames. Ao atacar em combate corpo a corpo, você ganha +1d.\n\nAo gastar um gambito em combate, você também ganha +1 de efeito naquela ação.",
+      "class":"Músculo"      
+		},
+		"(Mu) Xeno": {
+			"name": "(Mu) Xeno",
+      "description": "Você pode gastar Estresse (0-2) para realizar um feito sobrehumano que apenas os membros de sua espécie são capazes. (Página 296)\n\nDe Worf a D’Argo e Chewbacca, alienígenas poderosos em batalha têm sido uma necessidade do gênero ópera espacial. A habilidade inicial do Músculo é significativa, mas muitos xenos têm uma força muito além da de um ser humano normal.\n\nAlguns podem ter mais membros ou adaptações para ambientes hostis.\n\nConsidere como sua hereditariedade xeno possa torná-lo um Músculo mais útil e converse com sua mesa sobre como você deseja usar sua habilidade Xeno.",
+      "class":"Músculo"      
+		},
+		"(My) Center": {
+			"name": "(Mi) Centro",
+      "description": "Receba meditação como um vício. Ao satisfazê-lo, elimine +1 de estresse e adicione Visões Obscuras como um possível passando da conta.",
+      "class":"Místico"      
+		},
+		"(My) Kinetics": {
+			"name": "(Mi) Telecinese",
+      "description": "Você pode se esforçar para fazer o seguinte: usar o Caminho para arremessar um objeto do tamanho de uma mesa com força perigosa – impulsionar-se brevemente com velocidade sobre-humana.",
+      "class":"Místico"      
+		},
+		"(My) Psy-blade": {
+			"name": "(Mi) Psi-Lâmina",
+      "description": "Você pode concentrar a energia do Caminho em sua arma corpo a corpo.\n\nEnquanto carregada, a arma pode cortar materiais não protegidos com facilidade e você ganha potência em ataques corpo a corpo.",
+      "class":"Místico"      
+		},
+		"(My) Psy-dancing": {
+			"name": "(Mi) Psi-Dança",
+      "description": "Você pode se esforçar para turvar a mente de um alvo e convencê-lo diante de evidências contraditórias.\n\n“Faça o que eu digo. Eu sou o embaixador.”\n\nGaste 1 de estresse para cada recurso adicional: eles têm apenas memórias vagas do evento – funciona em um pequeno grupo.",
+      "class":"Místico"      
+		},
+		"(My) Sundering": {
+			"name": "(Mi) Separação",
+      "description": "Você pode se esforçar para sintonizar com o Caminho e distorcê-lo, causando dano psíquico a qualquer pessoa na área vulnerável ao seu ataque.\n\nVocê pode gastar 1 de estresse para cada característica adicional:\n- causa dano em vez de atordoar\n- você e qualquer pessoa que escolher recebem +2d para resistir aos efeitos.",
+      "class":"Místico"      
+		},
+		"(My) The Way": {
+			"name": "(Mi) O Caminho",
+      "description": "Você pode gastar um gambito em vez de pagar qualquer custo de estresse.\n\nObserve que as habilidades iniciais não podem ser escolhidas por meio da habilidade especial de Veterano.",
+      "class":"Místico"      
+		},
+		"(My) Visions": {
+			"name": "(Mi) Visões",
+      "description": "Gaste 1 de estresse para ver remotamente um lugar distante ou uma pessoa ligada a você de alguma forma íntima.\n\nGaste 1 de estresse para cada característica extra:\n- dura um minuto em vez de um momento\n- seu alvo também pode vê-lo e ouvi-lo\n- você pode ver algo apenas familiar para você, não íntimo.",
+      "class":"Místico"      
+		},
+		"(My) Warded": {
+			"name": "(Mi) Protegido",
+      "description": "Você pode gastar sua armadura especial para resistir às consequências de um ataque do Caminho ou do uso de artefato, ou se esforçar ao usar poderes místicos.",
+      "class":"Místico"      
+		},
+		"(My) Way Shield": {
+			"name": "(Mi) Escudo do Caminho",
+      "description": "Você pode bloquear raios blaster com o Caminho (resistir com Convicção).\n\nSe resistir a um ataque de blaster, você pode gastar 1 de estresse para redirecionar o fogo e fazer seu próprio ataque com ele.",
+      "class":"Místico"      
+		},
+		"(My) Xeno": {
+			"name": "(Mi) Xeno",
+      "description": "O setor está repleto de espécies que estão em sintonia com o Caminho de modo único. Alguns afirmam ter ancestralidade com o Ur, enquanto outros afirmam evolução em um planeta dominado pelo Caminho.\n\nIndependentemente disso, como um xeno místico, você está abrindo mão de uma habilidade inicial importante e deve considerar como ela influencia seu desenvolvimento como Místico.\n\nTrabalhe com o seu Mestre e com a mesa para definir habilidades e permissões especiais para a tradição mística específica de seu povo.",
+      "class":"Místico"      
+		},
+		"(P) Ace Pilot": {
+			"name": "(P) Piloto Ás",
+      "description": "Você tem potência em todos as rolagens relacionados à velocidade. Ao rolar para resistir às consequências de pilotagem, ganhe +1d.\n\nObserve que as habilidades iniciais não podem ser escolhidas por meio da habilidade especial de Veterano.",
+      "class":"Piloto"      
+		},
+		"(P) Commander": {
+			"name": "(P) Comandante",
+      "description": "Sempre que liderar uma ação coletiva, ganhe escala +1 (por exemplo, um pequeno grupo conta como um grupo médio).\n\nSe você liderar uma ação coletiva em combate, pode contar vários 6 de diferentes rolagens como crítico.",
+      "class":"Piloto"      
+		},
+		"(P) Exceed Specs": {
+			"name": "(P) Exceder Especificações",
+      "description": "Enquanto estiver a bordo de uma nave, você pode danificar um sistema dela ao qual tenha acesso para ganhar +1d ou +1 efeito em uma rolagem.",
+      "class":"Piloto"      
+		},
+		"(P) Hedonist": {
+			"name": "(P) Hedonista",
+      "description": "Ao satisfazer seu vício, pode ajustar o resultado dos dados em +/- 2.\n\nUm aliado que se juntar a você pode fazer o mesmo.",
+      "class":"Piloto"      
+		},
+		"(P) Keen Eye": {
+			"name": "(P) Olho Vivo",
+      "description": "Você tem olhos aguçados e percebe pequenos detalhes facilmente ignorados por muitos.\n\nGanhe +1d ao disparar armas de nave ou fazer tiros complicados.",
+      "class":"Piloto"      
+		},
+		"(P) Leaf On the Wind": {
+			"name": "(P) Folha ao Vento",
+      "description": "Ao se esforçar, você pode gastar +1 de estresse (3 de estresse no total) para ganhar +1 efeito e +1d em vez de um ou outro.",
+      "class":"Piloto"      
+		},
+		"(P) Punch It!": {
+			"name": "(P) Mete o Pé!",
+      "description": "Você se sente confortável com culturas e xenos incomuns.\n\nVocê ganha potência ao tentar socializar ou convencê-los .",
+      "class":"Piloto"      
+		},
+		"(P) Side Job": {
+			"name": "(P) Bico",
+      "description": "Você pode passar uma folga no porto fazendo bicos.\n\nGanhe 1 cred.\n\nSe houver rumores circulando, o Mestre irá informá-lo sobre eles.",
+      "class":"Piloto"      
+		},
+		"(P) Traveler": {
+			"name": "(P) Traveler",
+      "description": "",
+      "class":"Piloto"      
+		},
+		"(P) Xeno": {
+			"name": "(P) Xeno",
+      "description": "Os Pilotos Xeno são geralmente associados a naves xeno.\n\nSe escolher esta opção, pergunte ao seu Mestre sobre as modificações que você possa fazer em sua nave ou atualizações incomuns às quais seu pessoal possa ter acesso.\n\nAo desenvolver seu povo, pense em como a pilotagem deles pode ser afetada por terem sentidos incomuns (talvez eles enxerguem a gravidade ou outros espectros) ou maneiras únicas de interface (como conexões neurais diretas).",
+      "class":"Piloto"      
+		},
+		"(Sc) Ask Questions Later": {
+			"name": "(Ma) Pergunte Depois",
+      "description": "Ao socializar para levantar informações, ganha +1 efeito e pode também perguntar: Quem pode se beneficiar disso?",
+      "class":"Malandro"      
+		},
+		"(Sc) Daredevil": {
+			"name": "(Ma) Audacioso",
+      "description": "Ao fazer uma rolagem desesperada, pode receber +1d. Se fizer isso, não marque xp no atributo daquela ação.",
+      "class":"Malandro"      
+		},
+		"(Sc) Devil's Own Luck": {
+			"name": "(Ma) Sorte do Diabo",
+      "description": "Você pode gastar sua armadura especial para resistir às consequências de tiros de blaster ou para se esforçar ao falar a fim de se livrar (ou fugir) dos problemas.",
+      "class":"Malandro"      
+		},
+		"(Sc) I Know a Guy": {
+			"name": "(Ma) Eu Conheço um Cara",
+      "description": "Ao atracar em um porto depois de estar ausente, escolha um e pergunte ao Mestre sobre um trabalho:\n- não é mortal\n- paga bem o suficiente\n- não é um trabalho urgente\n- vem de uma facção em que você confia\n- tem como alvo um inimigo seu.\n\n Você pode gastar 1 cred por recurso adicional.",
+      "class":"Malandro"      
+		},
+		"(Sc) Never Tell Me the Odds": {
+			"name": "(Ma) Nunca me Diga as Probabilidades.",
+      "description": "Você gera gambitos em jogadas desesperadas. Você também pode gerá-los se já tiver usado um gambito.",
+      "class":"Malandro"      
+		},
+		"(Sc) Serendipitous": {
+			"name": "(Ma) Coincidências",
+      "description": "Sua tripulação começa com +1 gambito quando a reserva de dados é reiniciada.\n\nObserve que as habilidades iniciais não podem ser escolhidas por meio da habilidade especial de Veterano.",
+      "class":"Malandro"      
+		},
+		"(Sc) Shoot First": {
+			"name": "(Ma) Atire Primeiro",
+      "description": "Ao atacar escondido ou deixar uma armadilha, receba +1d.\n\nQuando há uma dúvida sobre quem age primeiro, a resposta é você (dois personagens com Atire Primeiro agem simultaneamente).",
+      "class":"Malandro"      
+		},
+		"(Sc) Tenacious": {
+			"name": "(Ma) Tenaz",
+      "description": "As penalidades por danos são um nível menos graves (embora danos de nível 4 ainda sejam fatais).",
+      "class":"Malandro"      
+		},
+		"(Sc) When the Chips Are Down": {
+			"name": "(Ma) Quando o Bicho Pega",
+      "description": "Você ganha um segundo uso de armadura especial entre cada folga.",
+      "class":"Malandro"      
+		},
+		"(Sc) Xeno": {
+			"name": "(Ma) Xeno",
+      "description": "Os Malandros são frequentemente representações da audiência, uma “pessoa comum”.\n\nUm Malandro xeno é um exercício de humanizar o Outro e de tornar acessíveis os personagens inusitados de Procyon.\n\nPense em sua cultura e povo ao criar seu xeno. Seu povo enfadonho aceita seu desprezo pelas regras? Eles são bem-vindos na sociedade Hegemônica ou estão à beira da aceitabilidade? Eles são de Procyon ou de outro lugar na galáxia?",
+      "class":"Malandro"      
+		},
+		"(Sp) Air of Respectability": {
+			"name": "(Com) Ar de Respeitabilidade",
+      "description": "Você obtém uma atividade de folga extra para adquirir recursos ou para passar despercebido.\n\nObserve que as habilidades iniciais não podem ser escolhidas por meio da habilidade especial de Veterano.",
+      "class":"Comunicador"      
+		},
+		"(Sp) Disarming": {
+			"name": "(Com) Desarmar",
+      "description": "Ao usar um gambito enquanto fala, hostilidades e perigo também param enquanto você estiver falando.",
+      "class":"Comunicador"      
+		},
+		"(Sp) Favors Owed": {
+			"name": "(Com) Favores Devidos",
+      "description": "Durante a folga, você recebe +1d ao adquirir recursos ou passar despercebido. Ao levantar informações, use +1d.",
+      "class":"Comunicador"      
+		},
+		"(Sp) Heart To Heart": {
+			"name": "(Com) Coração a Coração",
+      "description": "Ao fornecer uma dica significativa ou um conselho sincero e um membro da tripulação o seguir, os dois eliminam 1 de estresse.",
+      "class":"Comunicador"      
+		},
+		"(Sp) Infiltrator": {
+			"name": "(Com) Infiltrador",
+      "description": "Você não é afetado pela qualidade ou Categoria ao ignorar medidas de segurança.",
+      "class":"Comunicador"      
+		},
+		"(Sp) Old Friends": {
+			"name": "(Com) Velhos Amigos",
+      "description": "Ao pousar em um novo local, registre um amigo conhecido por você lá (em Amigos Influentes na cartilha de seu personagem).",
+      "class":"Comunicador"      
+		},
+		"(Sp) Player": {
+			"name": "(Com) Jogador",
+      "description": "Você sempre sabe quando alguém está mentindo para você.",
+      "class":"Comunicador"      
+		},
+		"(Sp) Purpose": {
+			"name": "(Com) Objetivo",
+      "description": "Você pode gastar sua armadura especial para se esforçar quando for derrotado por sua oposição ou quando estiver sob o efeito de ferimentos.\n\nAo resistir com Convicção, ganhe +1d.",
+      "class":"Comunicador"      
+		},
+		"(Sp) Subterfuge": {
+			"name": "(Com) Subterfúgio",
+      "description": "Você pode gastar sua armadura especial para resistir a uma consequência de persuasão ou suspeita.\n\nAo resistir com es per teza, ganhe +1d.",
+      "class":"Comunicador"      
+		},
+		"(Sp) Xeno": {
+			"name": "(Com) Xeno",
+      "description": "Além de diplomatas, os Comunicadores xeno são um tanto incomuns na Hegemonia.\n\nEntre o crime organizado, os xenos são muito mais aceitos e, para alguns, até preferidos.\n\nAventura espacial tem muitos exemplos de empatas naturais, espécies com funções cognitivas avançadas ou até mesmo robôs de protocolo que servem como Comunicadores para sua tripulação.\n\nAo considerar sua hereditariedade xeno, pense em como sua espécie se comunica e trabalhe com seu Mestre para descobrir como esses estilos de comunicação podem se manifestar no jogo.",
+      "class":"Comunicador"      
+		},
+		"(St) Book Learning": {
+			"name": "(Cos) Leitura",
+      "description": "Você fala várias línguas e tem uma educação ampla.\n\nGanhe +1d ao usar estudar durante uma atividade de folga.",
+      "class":"Costureiro"      
+		},
+		"(St) Combat Medic": {
+			"name": "(Cos) Médico de Combate",
+      "description": "Você é capaz de usar sua armadura especial para resistir a qualquer consequência enquanto cuida de um paciente.\n\nQuando Medicar alguém em combate, elimine 1 de estresse.",
+      "class":"Costureiro"      
+		},
+		"(St) Dr. Strange": {
+			"name": "(Cos) Dr. Estranho",
+      "description": "Sua pesquisa e campos de estudo são periféricos, esotéricos e tem foco místico.\n\nVocê sempre pode lidar com artefatos dos Precursores com segurança.\n\nAo Estudar um artefato ou Medicar com uma substância estranha, pode perguntar um dos seguintes:\n- o que isso pode fazer?\n- por que isso pode ser perigoso?",
+      "class":"Costureiro"      
+		},
+		"(St) I'm a Doctor Not a...": {
+			"name": "(Cos) Sou um Médico, Não...",
+      "description": "Você pode se esforçar para rolar o valor de medicar enquanto executa uma ação diferente. Diga qual paciente, pesquisa ou posto lhe ensinou esse truque.\n\nObserve que as habilidades iniciais não podem ser escolhidas por meio da habilidade especial de Veterano.",
+      "class":"Costureiro"      
+		},
+		"(St) Moral Compass": {
+			"name": "(Cos) Bússola Moral",
+      "description": "Ao fazer a coisa certa com um custo para si mesmo, marque xp (qualquer categoria).",
+      "class":"Costureiro"      
+		},
+		"(St) Patch": {
+			"name": "(Cos) Remendo",
+      "description": "Você pode medicar alguém durante um trabalho permitindo ao paciente ignorar os efeitos de uma penalidade de dano.",
+      "class":"Costureiro"      
+		},
+		"(St) Physicker": {
+			"name": "(Cos) Terapista",
+      "description": "Você é capaz de es tudar uma doença, feridas ou cadáver e levantar informações de uma cena de crime.\n\nAlém disso, sua tripulação recebe +1d nas jogadas de recuperação.",
+      "class":"Costureiro"      
+		},
+		"(St) Under Pressure": {
+			"name": "(Cos) Sob Pressão",
+      "description": "Adicione um gambito à reserva de dados sempre que você ou um membro da tripulação sofrer dano de nível 2 ou maior.",
+      "class":"Costureiro"      
+		},
+		"(St) Welcome Anywhere": {
+			"name": "(Cos) Bem-Vindo em Qualquer Lugar",
+      "description": "Enquanto estiver usando sua vestimenta de médico, você é bem-vindo, mesmo em lugares perigosos.\n\nGanhe +1d para Socializar e Convencer ao se oferecer para cuidar de qualquer pessoa necessitada.",
+      "class":"Costureiro"      
+		},
+		"(St) Xeno": {
+			"name": "(Cos) Xeno",
+      "description": "Existem inúmeras espécies com um talento especial para a ciência médica e com sentidos aprimorados que tornam desnecessário um scanner médico.\n\nPense em como pode abordar a cura diferente de um médico humano.\n\nTalvez não esteja acostumado com espécies com um único coração. Ou pode achar irritante que outras pessoas não consigam apenas regenerar membros como seu povo.\n\nAbrace e celebre as diferenças.",
+      "class":"Costureiro"      
+		}
+	}
+}

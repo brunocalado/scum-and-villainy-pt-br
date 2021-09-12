@@ -1,0 +1,29 @@
+{
+	"label": "Tamanhos de Nave",
+  "mapping": {
+    "description": "data.description"
+  },  
+ 
+	"entries": {
+		"Corvette": {
+			"name": "Corveta",
+      "description": "Naves grandes, não podem pousar em planetas, devem permanecer em órbita e usar um shuttle para pousar."
+		},
+		"Dreadnought": {
+			"name": "Encouraçada",
+      "description": "NAves enormes, não podem pousar em planetas, geralmente a nau capitânia de uma grande frota ou uma base móvel para naves menores."
+		},
+		"Freighter": {
+			"name": "Cargueiro",
+      "description": "Naves médias, podem pousar em planetas, tamanho de nave mais comum."
+		},
+		"Frigate": {
+			"name": "Fragata",
+      "description": "Naves enormes, não podem pousar em planetas, muitas vezes naves de guerra com várias armas pesadas."
+		},
+		"Personal": {
+			"name": "Pessoal",
+      "description": "Naves pequenos podem pousar em planetas, podem carregar armas pequenas, mas não o suficiente para danificar seriamente naves maiores."
+		}
+	}
+}

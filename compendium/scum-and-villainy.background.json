@@ -1,0 +1,37 @@
+{
+	"label": "Histórico",
+  "mapping": {
+    "description": "data.description"
+  },
+  
+	"entries": {
+		"Academic": {
+			"name": "Acadêmico",
+      "description": "Professor, aluno, pesquisador ou outra vocação voltada para o conhecimento."      
+		},
+		"Cult": {
+			"name": "Cultista",
+      "description": "Parte de um culto, oficialmente sancionado ou não. Um guerreiro sagrado, sacerdote ou devoto religioso." 
+		},
+		"Guilder": {
+			"name": "Guilda",
+      "description": "Envolvido nas maquinações de uma Guilda, como um projetista de naves, analista financeiro ou oficial de logística." 
+		},
+		"Labor": {
+			"name": "Trabalhador",
+      "description": "Trabalhador de fábrica, motorista, estivador, mineiro ou outro comerciante. A maior parte da Hegemonia é deste histórico." 
+		},
+		"Military": {
+			"name": "Militar",
+      "description": "Um soldado hegemônico, mercenário, operativo de inteligência, estrategista, instrutor de treinamento, etc." 
+		},
+		"Noble": {
+			"name": "Nobre",
+      "description": "Vivia uma vida de luxo, como um diletante, alguém envolvido na política interna, etc." 
+		},
+		"Syndicate": {
+			"name": "Crime Organizado",
+      "description": "Parte de uma gangue do crime organizado, desde o mais baixo vigia até um ex-chefão deposto." 
+		}
+	}
+}

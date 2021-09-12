@@ -1,0 +1,17 @@
+{
+	"label": "Star Systems",
+	"entries": {
+		"Brekk": {
+			"name": "Brekk"
+		},
+		"Holt": {
+			"name": "Holt"
+		},
+		"Iota": {
+			"name": "Iota"
+		},
+		"Rin": {
+			"name": "Rin"
+		}
+	}
+}

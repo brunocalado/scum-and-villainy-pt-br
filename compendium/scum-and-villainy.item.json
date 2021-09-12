@@ -1,0 +1,202 @@
+{
+	"label": "Itens",
+  "mapping": {
+    "description": "data.description",
+    "class": "data.class"
+  },  
+  
+	"entries": {
+		"(Me) Fine Hacking Rig": {
+			"name": "(Me) Equipamento de Hackear Superior",
+      "description": "Óculos de visualização, exploits não publicados, chips com overclock fora do mercado, grampos ópticos.\n\nHackear envolve tanto hardware quanto software.",
+      "class": "Mecânico"
+		},
+		"(Me) Fine Ship Repair Tools": {
+			"name": "(Me) Ferramentas Superiores de Reparo de Naves",
+      "description": "Chaves elétricas, uma furadeira sônica, sondas de teste, calibradores elétricos, uma pistola de rebite.",
+      "class": "Mecânico"
+		},
+		"(Me) Genius Pet": {
+			"name": "(Me) Bicho de Estimação Genial",
+      "description": "Incapaz de falar, mas pode entender linguagem e ajudar nas tarefas básicas. Gosta de você. Muito fofo. Antecipa suas ações.",
+      "class": "Mecânico"
+		},
+		"(Me) Small Drone": {
+			"name": "(Me) Drone Pequeno",
+      "description": "Drone pequeno de controle remoto com câmeras. Pode carregar algo leve.",
+      "class": "Mecânico"
+		},
+		"(Me) Spare Parts": {
+			"name": "(Me) Peças Sobressalentes",
+      "description": "Normalmente, para reparos de naves e eletrônicos. Muitas vezes esquecido no bolso ou no cinto de ferramentas.\n\nEmbora geralmente não sejam muito caros, você acaba carregando peças nas quais está trabalhando e peças para consertar naves.\n\nSe você precisar de um fio, solda ou um pedaço de fita, você os tem à mão.\n\nQualquer coisa rara ou mais complexa pode exigir uma rolagem de estilo de vida para ter com você.",
+      "class": "Mecânico"
+		},
+		"(Me) Vision-Enhancing Goggles": {
+			"name": "(Me) Óculos de Visão Aumentada",
+      "description": "Óculos com configurações térmica e ultravioleta e níveis de ampliação na casa dos milhares. Escurece quando necessário.",
+      "class": "Mecânico"
+		},
+		"(Mu) Detonator Launcher": {
+			"name": "(Mu) Detonator Launcher"
+		},
+		"(Mu) Fine Blaster Pistol": {
+			"name": "(Mu) Fine Blaster Pistol"
+		},
+		"(Mu) Fine Flamethrower": {
+			"name": "(Mu) Fine Flamethrower"
+		},
+		"(Mu) Fine Martial Arts Style": {
+			"name": "(Mu) Fine Martial Arts Style"
+		},
+		"(Mu) Fine Sniper Rifle": {
+			"name": "(Mu) Fine Sniper Rifle"
+		},
+		"(Mu) Fine Vibro-Blade": {
+			"name": "(Mu) Fine Vibro-Blade"
+		},
+		"(Mu) Mystic Ammunition": {
+			"name": "(Mu) Mystic Ammunition"
+		},
+		"(My) Fine Melee Weapon": {
+			"name": "(My) Fine Melee Weapon"
+		},
+		"(My) Memento Of Your Travels": {
+			"name": "(My) Memento Of Your Travels"
+		},
+		"(My) Offerings": {
+			"name": "(My) Offerings"
+		},
+		"(My) Outdated Religious Outfit": {
+			"name": "(My) Outdated Religious Outfit"
+		},
+		"(My) Precursor Artifact": {
+			"name": "(My) Precursor Artifact"
+		},
+		"(My) Trappings Of Religion": {
+			"name": "(My) Trappings Of Religion"
+		},
+		"(N) Knockout Drugs": {
+			"name": "(N) Knockout Drugs"
+		},
+		"(N) Restraints": {
+			"name": "(N) Restraints"
+		},
+		"(N) Stun Batons": {
+			"name": "(N) Stun Batons"
+		},
+		"(N) Stun Blasters": {
+			"name": "(N) Stun Blasters"
+		},
+		"(N) Stun Grenades": {
+			"name": "(N) Stun Grenades"
+		},
+		"(P) Fine Customized Spacesuit": {
+			"name": "(P) Fine Customized Spacesuit"
+		},
+		"(P) Fine Mechanic's Kit": {
+			"name": "(P) Fine Mechanic's Kit"
+		},
+		"(P) Fine Small Urbot": {
+			"name": "(P) Fine Small Urbot"
+		},
+		"(P) Grappling Hook": {
+			"name": "(P) Grappling Hook"
+		},
+		"(P) Guild License": {
+			"name": "(P) Guild License"
+		},
+		"(P) Victory Cigars": {
+			"name": "(P) Victory Cigars"
+		},
+		"(S) Armor": {
+			"name": "(S) Armor"
+		},
+		"(S) Blaster Pistol": {
+			"name": "(S) Blaster Pistol"
+		},
+		"(S) Communicator": {
+			"name": "(S) Communicator"
+		},
+		"(S) Detonator": {
+			"name": "(S) Detonator"
+		},
+		"(S) Hacking Tools": {
+			"name": "(S) Hacking Tools"
+		},
+		"(S) Heavy Blaster": {
+			"name": "(S) Heavy Blaster"
+		},
+		"(S) Illicit Drugs": {
+			"name": "(S) Illicit Drugs"
+		},
+		"(S) Medkit": {
+			"name": "(S) Medkit"
+		},
+		"(S) Melee Weapon": {
+			"name": "(S) Melee Weapon"
+		},
+		"(S) Repair Tools": {
+			"name": "(S) Repair Tools"
+		},
+		"(S) Spacesuit": {
+			"name": "(S) Spacesuit"
+		},
+		"(S) Spy Gear": {
+			"name": "(S) Spy Gear"
+		},
+		"(Sc) Fine Blaster Pistol": {
+			"name": "(Sc) Fine Blaster Pistol"
+		},
+		"(Sc) Fine Coat": {
+			"name": "(Sc) Fine Coat"
+		},
+		"(Sc) Forged Documents": {
+			"name": "(Sc) Forged Documents"
+		},
+		"(Sc) Loaded Dice or Trick Holo-cards": {
+			"name": "(Sc) Loaded Dice or Trick Holo-cards"
+		},
+		"(Sc) Mystic Ammunition": {
+			"name": "(Sc) Mystic Ammunition"
+		},
+		"(Sc) Personal Memento": {
+			"name": "(Sc) Personal Memento"
+		},
+		"(Sp) Fine Clothes": {
+			"name": "(Sp) Fine Clothes"
+		},
+		"(Sp) Large Luxury Item": {
+			"name": "(Sp) Large Luxury Item"
+		},
+		"(Sp) Legitimate ID": {
+			"name": "(Sp) Legitimate ID"
+		},
+		"(Sp) Medium Luxury Item": {
+			"name": "(Sp) Medium Luxury Item"
+		},
+		"(Sp) Memento Of a Past Encounter": {
+			"name": "(Sp) Memento Of a Past Encounter"
+		},
+		"(Sp) Small Luxury Item": {
+			"name": "(Sp) Small Luxury Item"
+		},
+		"(St) Candies and Treats": {
+			"name": "(St) Candies and Treats"
+		},
+		"(St) Fine Bedside Manner": {
+			"name": "(St) Fine Bedside Manner"
+		},
+		"(St) Fine Clothing": {
+			"name": "(St) Fine Clothing"
+		},
+		"(St) Fine Medkit": {
+			"name": "(St) Fine Medkit"
+		},
+		"(St) Recognizable Medic Garb": {
+			"name": "(St) Recognizable Medic Garb"
+		},
+		"(St) Syringes and Applicators": {
+			"name": "(St) Syringes and Applicators"
+		}
+	}
+}

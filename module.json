@@ -2,7 +2,7 @@
   "name":"scum-and-villainy-pt-br",
   "title":"Scum and Villainy - Português (Brasil)",
   "description":"",
-  "version":"0.0.4",
+  "version":"0.0.5",
   "author":"Mestre Digital",
   "minimumCoreVersion":"0.8.8",
   "compatibleCoreVersion":"0.8.9",
@@ -21,6 +21,10 @@
       {
          "name":"babele",
          "manifest":"https://gitlab.com/riccisi/foundryvtt-babele/raw/master/module/module.json"
+      },
+      {
+        "name": "scum-and-villainy",
+        "type": "system"
       }
    ],
   

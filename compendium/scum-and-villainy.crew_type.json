@@ -1,0 +1,26 @@
+{
+	"label": "Tipos de Nave",
+  "mapping": {
+    "description": "data.description",
+    "experience_clues": "data.experience_clues",
+    "def_abilities": "data.def_abilities"
+  },  
+
+	"entries": {
+		"Cerberus": {
+			"name": "Cerberus",
+      "description": "Caçadores de recompensas e especialistas em extração.",
+      "experience_clues": "Ganhe xp ao executar uma extração ou captura de uma recompensa com sucesso."
+		},
+		"Firedrake": {
+			"name": "Dragão de Fogo",
+      "description": "Rebeldes e criminosos Hegemônicos.",
+      "experience_clues": "Ganhe xp ao executar um trabalho bem-sucedido que se opõe ao domínio Hegemônico."
+		},
+		"Stardancer": {
+			"name": "Dançarina Estelar",
+      "description": "Comerciantes ilícitos, contrabandistas e furadores de bloqueio.",
+      "experience_clues": "Ganhe xp ao executar um transporte ou operação de contrabando com sucesso."
+		}
+	}
+}

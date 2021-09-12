@@ -1,0 +1,115 @@
+{
+	"label": "Habilidades da Nave",
+  "mapping": {
+    "description": "data.description",
+    "class":"data.class"
+  },  
+  
+	"entries": {
+		"(C) Deadly": {
+			"name": "(C) Mortal",
+      "description": "Cada PJ pode adicionar 1 valor de ação a Comandar, Lutar ou Esgueirar (até um máximo de 3).",
+      "class":"Cerberus"      
+		},
+		"(C) Licensed": {
+			"name": "(C) Licenciada",
+      "description": "Receba -2 atenção em qualquer trabalho legítimo de caça de recompensas.\n\nSua nave pode transportar armas de partículas e sua tripulação pode transportar e usar legalmente explosivos pesados na perseguição de um alvo.",
+      "class":"Cerberus"  
+		},
+		"(C) Light Touch": {
+			"name": "(C) Toque Leve",
+      "description": "Você ganha potência ao seguir um alvo ou ao levantar informações na localização anterior de um alvo.",
+      "class":"Cerberus"  
+		},
+		"(C) Loaded For Bear": {
+			"name": "(C) Carregada",
+      "description": "Sua tripulação pode carregar +1 carga. Eles têm uma armadura distinta e de alta qualidade.\n\nAo usar armadura, ela conta como armadura pesada (dois usos).",
+      "class":"Cerberus"  
+		},
+		"(C) On the Trail": {
+			"name": "(C) Na Trilha",
+      "description": "Sua equipe ganha uma atividade extra de folga para trabalhar em projetos de longo prazo ou adquirir recursos para rastrear recompensas.",
+      "class":"Cerberus"  
+		},
+		"(C) Play Both Sides": {
+			"name": "(C) Jogar nos Dois Lados",
+      "description": "Ao liberar um alvo de recompensa, torne-o um contato da tripulação.",
+      "class":"Cerberus"  
+		},
+		"(C) Snatch'N'Grab": {
+			"name": "(C) Pegar e Agarrar",
+      "description": "Ao usar embuste, infiltração ou social para executar um sequestro ou extração, adicione +1d a rolagem de abertura.",
+      "class":"Cerberus"  
+		},
+		"(F) Forged In Fire": {
+			"name": "(Dr) Forjado no Fogo",
+      "description": "Sua tripulação foi endurecida por uma experiência cruel. Cada um de vocês recebe +1d em todas as rolagens de resistência.",
+      "class":"Dragão de Fogo"      
+		},
+		"(F) Hearts & Minds": {
+			"name": "(Dr) Corações e Mentes",
+      "description": "Cada membro da tripulação pode adicionar 1 valor de ação para Comandar, Socializar ou Convencer (até um máximo de 3).",
+      "class":"Dragão de Fogo"      
+		},
+		"(F) Just Cause": {
+			"name": "(Dr) Causa Justa",
+      "description": "Quando sua tripulação faz a coisa certa com um custo para si mesma, você pode marcar um xp de tripulação.",
+      "class":"Dragão de Fogo"      
+		},
+		"(F) Natural Enemies": {
+			"name": "(Dr) Inimigos Naturais",
+      "description": "Ao executar um trabalho contra facções da Hegemonia, receba +1d para a rolagem de abertura.",
+      "class":"Dragão de Fogo"      
+		},
+		"(F) Old Hands": {
+			"name": "(Dr) Mãos Velhas",
+      "description": "Quando estiver em Guerra (-3) com uma facção da Hegemonia, todos os membros da tripulação recebem +1d nas rolagens de vício e ainda têm duas atividades de folga em vez de apenas uma.",
+      "class":"Dragão de Fogo"      
+		},
+		"(F) Spark Of Rebellion": {
+			"name": "(Dr) Centelha de Rebelião",
+      "description": "Se você deixar um cartão de visita ou um símbolo de resistência altamente visível no trabalho, receba +2 atenção. Sua tripulação ganha +1d para vício durante a próxima folga e não pode passar da conta.",
+      "class":"Dragão de Fogo"
+		},
+		"(F) Sympathizers": {
+			"name": "(Dr) Simpatizadores",
+      "description": "Sua ideologia é especialmente cativante. Ao lidar com uma equipe ou facção, o Mestre lhe dirá quem entre eles acredita em sua causa (um, alguns, muitos ou todos).",
+      "class":"Dragão de Fogo"      
+		},
+		"(S) Cargo Eye": {
+			"name": "(Da) Olho na Carga",
+      "description": "Sua tripulação ganha +1 cred para trabalhos de contrabando ou entrega. Ao levantar informações, pode perguntar: \"O que é mais valioso aqui?\"",
+      "class":"Dançarina Estelar"      
+		},
+		"(S) Field Repairs": {
+			"name": "(Da) Reparos de Campo",
+      "description": "Você ganha potência ao reparar sua nave no espaço. Se gastar um gambito em uma rolagem de montar, ganha +2d (em vez de +1d).",
+      "class":"Dançarina Estelar"      
+		},
+		"(S) Home Cooking": {
+			"name": "(Da) Cozinha Caseira",
+      "description": "Toda a sua equipe ganha Culinária Caseira como um vício. Logo após um trabalho, você pode gastar 1 cred e uma atividade de folga para cozinhar para todos, permitindo a toda a equipe presente fazer uma rolagem de vício.\n\nSe alguém passar da conta, uma briga começa e todos ganham 1 de estresse após a rolagem de vício.\n\nRequer um módulo de cozinha.",
+      "class":"Dançarina Estelar"      
+		},
+		"(S) Just Passing Through": {
+			"name": "(Da) Apenas Passando",
+      "description": "Durante a recompensa, tire -1 de atenção do trabalho.\n\nQuando sua atenção é 4 ou menos, você ganha +1d para enganar as pessoas ao se passar por cidadão comum, e você ainda tem duas atividades de folga mesmo se estiver em Guerra (-3) com qualquer facção, pois elas têm problemas localizando você.",
+      "class":"Dançarina Estelar"      
+		},
+		"(S) Leverage": {
+			"name": "(Da) Influência",
+      "description": "Sua tripulação sabe como mexer os pauzinhos e ganhar favores. Ao passa despercebido, em vez de rolar, você pode obter status -1 com uma facção em Colegas (+1) ou reduzir seu nível de procurado em 1, e definir sua atenção para 0 em um sistema.",
+      "class":"Dançarina Estelar"      
+		},
+		"(S) Problem Solvers": {
+			"name": "(Da) Solucionadores de Problemas",
+      "description": "Cada PJ pode adicionar 1 valor de ação a Guiar, Montar ou Atravessar (até um máximo de 3).",
+      "class":"Dançarina Estelar"      
+		},
+		"(S) The Getaway": {
+			"name": "(Da) A Fuga",
+      "description": "Você ganha potência ao lutar ou guiar para evitar a captura ou furar um bloqueio. Ao fazer um trabalho de entrega, receba +1d para a rolagem de abertura.",
+      "class":"Dançarina Estelar"      
+		}
+	}
+}
