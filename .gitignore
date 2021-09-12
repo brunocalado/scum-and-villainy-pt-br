@@ -1,2 +1,4 @@
 workspace/
 scum-and-villainy-pt-br.lock
+.gitignore
+.gitattributes
