@@ -2,40 +2,40 @@
 	"label": "Wanted Consequences",
 	"entries": {
 		"Arrest": {
-			"name": "Arrest",
-			"description": "<p>A detective presents a case file of evidence to a judge, to begin prosecution of your crew. The system police send a detail to arrest you (a gang at least equal in <strong>scale</strong> to your <strong>Wanted Level</strong> or a ship of that Tier). Pay them off with <strong>Cred</strong> equal to your <strong>Wanted Level</strong> +3, hand someone over for arrest (this clears your <strong>Heat</strong> and <strong>Wanted Level</strong> in the system), or try to evade capture.</p>"
+			"name": "Prisão",
+			"description": "<p>Um detetive apresenta um arquivo de evidências a um juiz, a fim de iniciar o processo contra sua tripulação. A polícia do sistema envia uma patrulha para prendê-los (uma gangue pelo menos igual em <strong>escala</strong> ao seu <strong>nível de procurado</strong> ou uma nave desse nível). Pague-os com <strong>cred</strong> igual ao seu <strong>nível de procurado +3</strong>, entregue alguém para prisão (isto limpa sua <strong>atenção</strong> e <strong>nível de procurado</strong> no sistema) ou tente evitar a captura.</p>"
 		},
 		"Bounty Hunter": {
-			"name": "Bounty Hunter",
-			"description": "<p>An enemy faction hires a bounty hunter. Fight, evade, or pay them off.&nbsp; If you have no faction with negative status, you avoid entanglements right now.</p>\n<p>Bounty hunters are strong fighters, with armor, drones, and weapons that grant them <strong>potency</strong> in combat. Base their Tier on the hiring faction and how angry they are. Pay them off with 3 <strong>Cred</strong>.</p>"
+			"name": "Caçador de Recompensas",
+			"description": "<p>Uma facção inimiga contrata um caçador de recompensas. Lute, fuja ou pague-o. Se não tem nenhuma facção com status negativo, você evita desavenças agora.</p>"
 		},
 		"Collectors": {
-			"name": "Collectors",
-			"description": "<p>A collection agency claims part of your ship. Pay them 2 <strong>Cred</strong>, give them the components (remove a ship module), or make them leave another way.</p>"
+			"name": "Cobradores",
+			"description": "<p>Uma agência de cobrança reivindica parte da sua nave. Pague a eles <strong>2 cred</strong>, dê a eles os componentes (remova um módulo da nave) ou faça-os ir embora de outra maneira.</p>"
 		},
 		"Cooperation": {
-			"name": "Cooperation",
-			"description": "<p>A faction you have +2 or +3 status with asks you for a &ldquo;favor.&rdquo; Agree to it or lose a status with them. If you don&rsquo;t have a +2 or +3 faction status, you avoid entanglements right now.</p>\n<p>The GM should look at the faction&rsquo;s goals for job prompts.</p>"
+			"name": "Cooperação",
+			"description": "<p>Uma facção com a qual você tem status +2 ou +3 lhe pede um “favor”. Aceite ajudar ou perca status com eles. Se não tem um status de facção +2 ou +3, você evita desavenças agora.</p>"
 		},
 		"Impounded": {
 			"name": "Impounded",
 			"description": "<p>Dock authorities impound your craft. Bribe dockworkers to lift the lockdown with 2 <strong>Cred</strong>, or steal your ship back. If you are not on a planet or station, you avoid entanglements right now.</p>"
 		},
 		"Interrogation": {
-			"name": "Interrogation",
-			"description": "<p>System officers round up one of the PCs to question them about the crew&rsquo;s crimes. How did they manage to capture you? Either pay them off with 2 <strong>Cred</strong>, or they sweat it out of you (level 2 <strong>Harm</strong>) AND you tell them what they want to know (+2 <strong>Heat</strong> ). You can resist each of those consequences separately.</p>"
+			"name": "Interrogatório",
+			"description": "<p>Os oficiais do sistema reúnem um dos PJs para questioná-lo sobre os crimes da tripulação. Como eles conseguiram capturar você? Pague com <strong>2 Cred</strong>, ou eles o pressionam <strong>(nível 2 de dano)</strong>. E você lhes dirá o que eles querem saber <strong>(+2 de atenção)</strong>. Você pode resistir a cada uma dessas consequências separadamente.</p>"
 		},
 		"New \"Friends\"": {
-			"name": "New \"Friends\"",
-			"description": "<p>A neutral faction asks you to do a job that is either extra dangerous, pays little, or gathers more <strong>Heat</strong> than usual (GM&rsquo;s choice). Accept or lose a status with them.</p>\n<p>The GM should look at their faction goals for job prompts.</p>"
+			"name": "Novos \"Amigos\"",
+			"description": "<p>Uma facção neutra pede para vocês fazerem um trabalho extremamente perigoso, pagando pouco ou gerando mais <strong>Atenção</strong>do que o normal (Escolha do Mestre). Aceite ou perca um status com eles.</p>"
 		},
 		"Out of Gas": {
-			"name": "Out of Gas",
-			"description": "<p>A piece of your ship fails catastrophically, damaging the system and rendering it inoperable until repaired. If you didn&rsquo;t use your ship at all on the last job, you avoid entanglements right now.</p>\n<p>This entanglement can happen while in flight between planets or systems, or on the way to or from a job. This failure means the whole system (for example, engines) can&rsquo;t be used. Who do you call for help and what will it cost you?</p>"
+			"name": "Sem Combustível",
+			"description": "<p>Um pedaço de sua nave falha catastroficamente, danificando o sistema e tornando-o inoperante até ser reparado. Se você não usou sua nave no último trabalho, você evita desavenças agora.</p>\n<p>Esta desavença pode acontecer durante o voo entre planetas ou sistemas, ou a caminho/na volta de um trabalho. Essa falha significa que todo o sistema (por exemplo, motores) não pode ser usado. Para quem você liga para pedir ajuda e quanto isso vai custar?</p>"
 		},
 		"Pirates!": {
-			"name": "Pirates!",
-			"description": "<p>Pirates attempt to take over your ship by force. Outrun, fight, or cut a deal. If you didn&rsquo;t use your ship at all on the last job, you avoid entanglements right now.</p>\n<p>This entanglement can happen while in flight between planets or systems, or on the way to or from a job.</p>"
+			"name": "Piratas!",
+			"description": "<p>Piratas tentam assumir o controle de sua nave à força. Ultrapasse, lute ou feche um acordo. Se você não usou sua nave no último trabalho, evita desavenças agora.</p>"
 		},
 		"Reprisals": {
 			"name": "Reprisals",
