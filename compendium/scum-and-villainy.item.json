@@ -37,58 +37,94 @@
       "class": "Mecânico"
 		},
 		"(Mu) Detonator Launcher": {
-			"name": "(Mu) Detonator Launcher"
+			"name": "(Mu) Zarathustra, um Lançador de Granadas",
+      "description": "Lança granadas em alta velocidade. Granadas são ilegais, portanto, geram Atenção quando disparados. Pode ser usado para marcar/danificar veículos e estruturas. Não é sutil. Pilhas incluídas, mas detonadores vem separadamente.",
+      "class": "Músculo"
 		},
 		"(Mu) Fine Blaster Pistol": {
-			"name": "(Mu) Fine Blaster Pistol"
+			"name": "(Mu) Krieger, uma Excelente Pistola Blaster",
+      "description": "Como amiga ou aliada, pode ser usada durante a folga para ameaçar ou intimidar. Como inimiga, alguém a possui e tem uma bala com seu nome. Você conhece essa arma intimamente – de onde ou por quê?",
+      "class": "Músculo"
 		},
 		"(Mu) Fine Flamethrower": {
-			"name": "(Mu) Fine Flamethrower"
+			"name": "(Mu) Zmei, um Bom Lança-Chamas",
+      "description": "Para quando precisar esquentar as coisas. Configurações para crocância regular e extra. Não é fácil de esconder. Seus ataques cobrem a área de uma pequena sala (e deixam marcas de queimadura distintas podendo resultar em atenção adicional). As complicações ao levar um tiro podem incluir a ruptura dos tanques de combustível. Que decalques ou marcas legais ele tem?",
+      "class": "Músculo"
 		},
 		"(Mu) Fine Martial Arts Style": {
-			"name": "(Mu) Fine Martial Arts Style"
+			"name": "(Mu) Estilo de Artes Marciais Superior",
+      "description": "Sua própria combinação personalizada de técnicas de combate, única como impressão digital. Onde e com quem você treinou pela primeira vez? Como chama o seu estilo? Você já teve alunos?",
+      "class": "Músculo"
 		},
 		"(Mu) Fine Sniper Rifle": {
-			"name": "(Mu) Fine Sniper Rifle"
+			"name": "(Mu) Vera, um Bom Rifle de Precisão",
+      "description": "Com auto travamento, capacidade máxima, gatilho personalizado, cartucho duplo e medidor completo. Ele pode disparar munição mística. Você mesmo personalizou, encomendou especialmente, retirou de um corpo ou foi presente de alguém?",
+      "class": "Músculo"
 		},
 		"(Mu) Fine Vibro-Blade": {
-			"name": "(Mu) Fine Vibro-Blade"
+			"name": "(Mu) Sunder, uma Lâmina Vibratória Superior",
+      "description": "Corta quase qualquer material. Decorada. Faca ou lâmina de duelo. Que desenho está gravado na lâmina? Você a tomou ou conseguiu por direito?",
+      "class": "Músculo"
 		},
 		"(Mu) Mystic Ammunition": {
-			"name": "(Mu) Mystic Ammunition"
+			"name": "(Mu) Munição Mística",
+      "description": "Uma cápsula de grande calibre, projetada para ser disparada de uma arma especializada que libere energias místicas quando acerta. Concede potência contra alvos místicos. Quem faz suas balas místicas? Por que elas são potentes contra as energias do Caminho?",
+      "class": "Músculo"
 		},
 		"(My) Fine Melee Weapon": {
-			"name": "(My) Fine Melee Weapon"
+			"name": "(Mi) Arma Corpo a Corpo Superior",
+      "description": "Uma arma antiquada que atua como uma extensão do seu corpo. Na era dos blasters, espadas e armas de ponta são resquícios de cultura e de costumes em sua maior parte. Mas os poderes do Caminho parecem interagir com relutância com a tecnologia avançada. Cada ordem mística mantém itens anacrônicos e os usa de maneiras diferentes. Você possui uma arma dessa? Em caso afirmativo, qual treinamento recebeu e como a usa?",
+      "class": "Místico"
 		},
 		"(My) Memento Of Your Travels": {
-			"name": "(My) Memento Of Your Travels"
+			"name": "(Mi) Lembranças de Suas Viagens",
+      "description": "Uma pequena estátua, moeda desatualizada, uma mecha de cabelo, um quadro.",
+      "class": "Místico"
 		},
 		"(My) Offerings": {
-			"name": "(My) Offerings"
+			"name": "(Mi) Oferendas",
+      "description": "Uma vela, lamparina, flores, comida, água, incenso, pedras de sua jornada. Presentes deixados em um santuário para qualquer místico pegar enquanto vagam, ou oferecidos em troca de um trabalho?",
+      "class": "Místico"
 		},
 		"(My) Outdated Religious Outfit": {
-			"name": "(My) Outdated Religious Outfit"
+			"name": "(Mi) Trajes Religiosos Fora de Moda",
+      "description": "Robes, mantos usados, sandálias, etc. Participantes e praticantes de Cultos Hegemônicos populares e sancionados frequentemente carregam insígnias bem conhecidas de manufatura moderna. As suas foram herdadas? Nunca a substituiu? Feita à mão?",
+      "class": "Místico"
 		},
 		"(My) Precursor Artifact": {
-			"name": "(My) Precursor Artifact"
+			"name": "(Mi) Artefato Precursor",
+      "description": "Um pequeno objeto feito de materiais antigos. Tecnologia Precursora.",
+      "class": "Místico"
 		},
 		"(My) Trappings Of Religion": {
-			"name": "(My) Trappings Of Religion"
+			"name": "(Mi) Objetos Religiosos",
+      "description": "Pergaminhos, textos, ícones, xícaras e tigelas, sinos. Que objetos sagrados sua ordem particular de místicos carrega? Seriam facilmente reconhecíveis?",
+      "class": "Místico"
 		},
 		"(N) Knockout Drugs": {
-			"name": "(N) Knockout Drugs"
+			"name": "(N) Drogas de Nocaute",
+      "description": "Os efeitos colaterais são comuns e podem incluir dor de cabeça, náusea, tontura, morte súbita, ataques violentos de raiva e/ou leve desconforto. Pode não funcionar em todos os Xenos.",
+      "class": "Não Letal"
 		},
 		"(N) Restraints": {
-			"name": "(N) Restraints"
+			"name": "(N) Algemas",
+      "description": "Uma grande variedade para lidar com todos os tipos de Xenos.",
+      "class": "Não Letal"
 		},
 		"(N) Stun Batons": {
-			"name": "(N) Stun Batons"
+			"name": "(N) Bastões de Atordoamento",
+      "description": "Chocante!",
+      "class": "Não Letal"
 		},
 		"(N) Stun Blasters": {
-			"name": "(N) Stun Blasters"
+			"name": "(N) Preparação de Atordoamento nos Blasters",
+      "description": "Blasters regulares com configurações de atordoamento, para quando o seu VIP importante não cooperar.",
+      "class": "Não Letal"
 		},
 		"(N) Stun Grenades": {
-			"name": "(N) Stun Grenades"
+			"name": "(N) Granadas de Atordoamento",
+      "description": "Flashbangs no espaço! Substitui o detonador na cartilha.",
+      "class": "Não Letal"
 		},
 		"(P) Fine Customized Spacesuit": {
 			"name": "(P) Fine Customized Spacesuit"

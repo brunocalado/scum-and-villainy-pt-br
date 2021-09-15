@@ -1,6 +1,9 @@
 # Scum and Villainy - Português (Brasil)
 <b>Módulo de tradução para Scum and Villainy</b>
 
+# Aprenda!
+[![Scum and Villainy no Foundry VTT](https://img.youtube.com/vi/WhVxlWLcU04/0.jpg)](https://www.youtube.com/watch?v=WhVxlWLcU04)
+
 # Como Usar
  
 - Instale o módulo babele e esse módulo.

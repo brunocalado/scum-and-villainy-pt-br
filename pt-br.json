@@ -22,6 +22,10 @@
   "BITD.GoalClockMax": "Tamanho do Relógio de Facção",
   "BITD.Scene": "Cena",
   "BITD.Rule": "Regra",
+  "BITD.Wealth": "Riqueza",
+  "BITD.CrimeSyndicate": "Crime/Sindicato",
+  "BITD.TechLevel": "Nível de Tecnologia",
+  "BITD.Weirdness": "Estranho",  
   "BITD.Stats": "Atributos",
   "BITD.Turf": "Território",
   "BITD.Goal": "Objetivo",
@@ -307,5 +311,12 @@
   "BITD.EffectDelete": "Deletar",
   "BITD.EffectWarning": "Managing Active Effects within an Owned Item is not currently supported by FoundryVTT and will be added in a subsequent update.",
 
-  "BITD.ClockSettingDefaultTheme": "Tema Padrão de Relógio:"
+  "BITD.ClockSettingDefaultTheme": "Tema Padrão de Relógio:",
+  "BITD.ClockSettingDefaultThemeHint": "Tema para os relógios que forem criados.",
+  "BITD.AttributeXPBarSize": "Barra de XP para Atributos:",
+  "BITD.AttributeXPBarSizeHint": "Número de caixas que a barra de XP de atributo deve ter.",
+  "BITD.PlaybookXPBarSize": "Barra de XP para a Cartilha:",
+  "BITD.PlaybookXPBarSizeHint": "Número de caixas que a barra de XP de cartilha deve ter.",
+  "BITD.CrewXPBarSize": "Barra de XP para a Nave:",
+  "BITD.CrewXPBarSizeHint": "Número de caixas que a barra de XP de nave deve ter."
 }
