@@ -2,7 +2,7 @@
   "name":"scum-and-villainy-pt-br",
   "title":"Scum and Villainy - Português (Brasil)",
   "description":"",
-  "version":"0.0.7",
+  "version":"0.0.8",
   "author":"Mestre Digital",
   "minimumCoreVersion":"0.8.9",
   "compatibleCoreVersion":"0.8.9",
@@ -30,6 +30,16 @@
   
   "systems": [
     "scum-and-villainy"
-  ]
+  ],
   
+  "packs": [
+  {
+    "name": "tabelas-de-trabalho",
+    "label": "Tabelas de Trabalho",
+    "path": "packs/tabelas-de-trabalho.db",
+    "entity": "RollTable",
+    "module": "scum-and-villainy-pt-br",
+    "private": false
+  }
+  ]
 }

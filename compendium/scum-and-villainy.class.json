@@ -3,7 +3,7 @@
   "mapping": {
     "description": "data.description",
     "experience_clues": "data.experience_clues",
-    "def_abilities": "data.def_abilities"
+    "def_abilities": "data.def_abilities"  
   },  
   
 	"entries": {
@@ -23,8 +23,8 @@
 			"name": "Místico",
       "description": "Um errante galáctico em contato com o Caminho",
       "experience_clues": "enfrentar desafios com sabedoria ou com o Caminho",
-      "def_abilities": "(Mi) O Caminho, Horux, Hicks, Laxx, Rye, Blish"     
-		},
+      "def_abilities": "(Mi) O Caminho, Horux, Hicks, Laxx, Rye, Blish",
+ 		},
 		"Pilot": {
 			"name": "Piloto",
       "description": "Um mago do manejo de naves viciado em perigo",

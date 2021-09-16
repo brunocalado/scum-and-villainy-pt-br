@@ -5,5 +5,5 @@ Hooks.once('init', () => {
 			lang: 'pt-BR',
 			dir: 'compendium'
 		}); 
-	}
+  } // END if(typeof Babele  
 });
