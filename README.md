@@ -6,11 +6,16 @@
 
 # Como Usar
  
-- Instale o módulo babele e esse módulo.
+- Instale o módulo Babele e esse módulo.
 - Ative ambos.
 - Altere o idioma em configurações para Português (Brasil)
 
+# Macros
+
+Dentro do módulo existem macros úteis. Veja os registros de documentação no compêndio.
+
 # Onde Obter
+
 Comprar os materiais em Português (Brasil): https://loja.burobrasil.com/
 
 # Credits/License   
