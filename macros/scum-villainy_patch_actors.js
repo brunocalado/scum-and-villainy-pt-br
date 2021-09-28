@@ -1,4 +1,4 @@
-const version = 'v1.1';
+const version = 'v1.2';
 
 /* Patch Actors
 
@@ -41,8 +41,8 @@ if (characters==undefined && ships==undefined) {
   }
   
   // VARS
-  const effectsShip = ['Firedrake type', 'Stardancer type', 'Firedrake class', 'Stardancer class'];
-  const playbooksShip = ['Firedrake', 'Stardancer'];
+  const effectsShip = ['Firedrake type', 'Stardancer type', 'Firedrake class', 'Stardancer class', 'Cerberus type', 'Cerberus class'];
+  const playbooksShip = ['Firedrake', 'Stardancer', 'Cerberus'];
 
   if (ships!=undefined) {
     for(const ship of ships) {
@@ -52,11 +52,14 @@ if (characters==undefined && ships==undefined) {
           let changes = duplicate(effect.data.changes); // ALL EFFECTS
           let changesBut = changes.filter(e => e.key !== 'data.ship_class'); // all effects but the one that will be changed.                 
           let selectedEffect = changes.find(e => e.key === 'data.ship_class');
+          let selectedEffect2 = changes.find(e => e.key === 'data.designation');
           let playbookName = selectedEffect.value;
-          console.log(playbookName);
+          //console.log(playbookName);
           if ( playbooksShip.includes(playbookName) ) {
             selectedEffect.value = translateShip(playbookName);
+            selectedEffect2.value = translateShipDesignation(playbookName);
             changesBut.push(selectedEffect);
+            changesBut.push(selectedEffect2);
             message += `<h2>${ship.name}</h2><p>${playbookName} foi trocado por ${translateShip(playbookName)}</p>`;
             await effect.update({changes: changesBut});                
           } else {
@@ -104,4 +107,15 @@ function translateShip(playbook) {
     return playbook;
   }
 }
+
+function translateShipDesignation(playbook) {
+  if (playbook == 'Firedrake') {
+    return 'Corveta Convertida Classe Khanjigar';
+  } else if (playbook == 'Stardancer') {
+    return 'Cargueiro Classe Scarab série CF-350';
+  } else if (playbook == 'Cerberus') {
+    return 'Embarcação de Patrulha tipo Firebrand R-29';
+  }
+}
+
 
