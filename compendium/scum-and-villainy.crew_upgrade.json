@@ -226,23 +226,23 @@
       "description": "Muito útil para proteger objetos de valor durante viagens espaciais. O bloqueio programável permite códigos de segurança personalizados, códigos de uso único e registros de acesso. Usa valor do casco quando contestado."
 		},
 		"(W) Coherence Cannon": {
-			"name": "(A) Canhão Integrado",
+			"name": "(Ar) Canhão Integrado",
       "description": "Uma arma capital. Capaz de apenas um tiro até ser reparada ou recarregada em naves menores do que encouraçadas. Pode fritar sistemas. Incrivelmente mortal. Super ilegal."
 		},
 		"(W) Grappling Hooks": {
-			"name": "(A) Ganchos",
+			"name": "(Ar) Ganchos",
       "description": "Oficialmente para travar em asteroides e pescar cargas, é uma série de redes, cordões e braços capazes de amarrar duas embarcações para reboque ou embarque. Legal."
 		},
 		"(W) Mining Drill": {
-			"name": "(A) Broca de Mineração",
+			"name": "(Ar) Broca de Mineração",
       "description": "Broca violenta, de curto alcance e alta potência. Vaporiza rocha. Facilmente modificada para perfurar cascos. Legal."
 		},
 		"(W) Missiles": {
-			"name": "(A) Mísseis",
+			"name": "(Ar) Mísseis",
       "description": "Projéteis com propulsão. Não são legais."
 		},
 		"(W) Particle Cannons": {
-			"name": "(A) Canhões de Partículas",
+			"name": "(Ar) Canhões de Partículas",
       "description": "Pew! Pew! Normalmente fixado em uma direção em naves pessoais. Frequentemente cruzados. Legal apenas com licença."
 		}
 	}
