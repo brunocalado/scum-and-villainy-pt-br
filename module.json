@@ -2,7 +2,7 @@
   "name":"scum-and-villainy-pt-br",
   "title":"Scum and Villainy - Português (Brasil)",
   "description":"Tradução para o sistema Scum and Villainy.",
-  "version":"0.1.9",
+  "version":"0.2.0",
   "author":"Mestre Digital",
   "minimumCoreVersion":"0.8.9",
   "compatibleCoreVersion":"0.8.9",
@@ -27,6 +27,11 @@
         "type": "system"
       }
    ],
+
+ "styles": [
+    "./styles/style.css"
+  ],
+
   
   "systems": [
     "scum-and-villainy"
@@ -56,6 +61,14 @@
     "entity": "JournalEntry",
     "module": "scum-and-villainy-pt-br",
     "private": false
-  }  
+  },
+  {
+    "name": "regras",
+    "label": "Regras",
+    "path": "packs/regras.db",
+    "entity": "JournalEntry",
+    "module": "scum-and-villainy-pt-br",
+    "private": false
+  }   
   ]
 }
