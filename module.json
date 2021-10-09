@@ -2,7 +2,7 @@
   "name":"scum-and-villainy-pt-br",
   "title":"Scum and Villainy - Português (Brasil)",
   "description":"Tradução para o sistema Scum and Villainy.",
-  "version":"0.2.0",
+  "version":"0.2.1",
   "author":"Mestre Digital",
   "minimumCoreVersion":"0.8.9",
   "compatibleCoreVersion":"0.8.9",
@@ -69,6 +69,14 @@
     "entity": "JournalEntry",
     "module": "scum-and-villainy-pt-br",
     "private": false
-  }   
+  },
+  {
+    "name": "operativo",
+    "label": "Operativo",
+    "path": "packs/operativo.db",
+    "entity": "Item",
+    "module": "scum-and-villainy-pt-br",
+    "private": false
+  }     
   ]
 }
