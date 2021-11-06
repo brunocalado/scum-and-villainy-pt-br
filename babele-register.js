@@ -1,7 +1,7 @@
 Hooks.once('init', () => { 
 	if(typeof Babele !== 'undefined') { 
 		Babele.get().register({
-			module: 'monstro-da-semana-pt-br',
+			module: 'scum-and-villainy-pt-br',
 			lang: 'pt-BR',
 			dir: 'compendium'
 		}); 

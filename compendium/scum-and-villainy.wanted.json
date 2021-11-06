@@ -1,0 +1,61 @@
+{
+	"label": "Consequências de Procurado",
+	"entries": {
+		"Arrest": {
+			"name": "Prisão",
+			"description": "<p>Um detetive apresenta um arquivo de evidências a um juiz, a fim de iniciar o processo contra sua tripulação. A polícia do sistema envia uma patrulha para prendê-los (uma gangue pelo menos igual em <strong>escala</strong> ao seu <strong>nível de procurado</strong> ou uma nave desse nível). Pague-os com <strong>cred</strong> igual ao seu <strong>nível de procurado +3</strong>, entregue alguém para prisão (isto limpa sua <strong>atenção</strong> e <strong>nível de procurado</strong> no sistema) ou tente evitar a captura.</p>"
+		},
+		"Bounty Hunter": {
+			"name": "Caçador de Recompensas",
+			"description": "<p>Uma facção inimiga contrata um caçador de recompensas. Lute, fuja ou pague-o. Se não tem nenhuma facção com status negativo, você evita desavenças agora.</p>"
+		},
+		"Collectors": {
+			"name": "Cobradores",
+			"description": "<p>Uma agência de cobrança reivindica parte da sua nave. Pague a eles <strong>2 cred</strong>, dê a eles os componentes (remova um módulo da nave) ou faça-os ir embora de outra maneira.</p>"
+		},
+		"Cooperation": {
+			"name": "Cooperação",
+			"description": "<p>Uma facção com a qual você tem status +2 ou +3 lhe pede um “favor”. Aceite ajudar ou perca status com eles. Se não tem um status de facção +2 ou +3, você evita desavenças agora.</p>"
+		},
+		"Impounded": {
+			"name": "Apreendido",
+			"description": "<p>As autoridades das docas apreendem sua nave. Suborne os estivadores para suspender o bloqueio com <strong>2 cred</strong>, ou capture sua nave de volta. Se n&atilde;o estiver em um planeta ou esta&ccedil;&atilde;o, evita desaven&ccedil;as por ora.</p>"
+		},
+		"Interrogation": {
+			"name": "Interrogatório",
+			"description": "<p>Os oficiais do sistema reúnem um dos PJs para questioná-lo sobre os crimes da tripulação. Como eles conseguiram capturar você? Pague com <strong>2 Cred</strong>, ou eles o pressionam <strong>(nível 2 de dano)</strong>. E você lhes dirá o que eles querem saber <strong>(+2 de atenção)</strong>. Você pode resistir a cada uma dessas consequências separadamente.</p>"
+		},
+		"New \"Friends\"": {
+			"name": "Novos \"Amigos\"",
+			"description": "<p>Uma facção neutra pede para vocês fazerem um trabalho extremamente perigoso, pagando pouco ou gerando mais <strong>Atenção</strong>do que o normal (Escolha do Mestre). Aceite ou perca um status com eles.</p>"
+		},
+		"Out of Gas": {
+			"name": "Sem Combustível",
+			"description": "<p>Um pedaço de sua nave falha catastroficamente, danificando o sistema e tornando-o inoperante até ser reparado. Se você não usou sua nave no último trabalho, você evita desavenças agora.</p>\n<p>Esta desavença pode acontecer durante o voo entre planetas ou sistemas, ou a caminho/na volta de um trabalho. Essa falha significa que todo o sistema (por exemplo, motores) não pode ser usado. Para quem você liga para pedir ajuda e quanto isso vai custar?</p>"
+		},
+		"Pirates!": {
+			"name": "Piratas!",
+			"description": "<p>Piratas tentam assumir o controle de sua nave à força. Ultrapasse, lute ou feche um acordo. Se você não usou sua nave no último trabalho, evita desavenças agora.</p>"
+		},
+		"Reprisals": {
+			"name": "Represálias",
+			"description": "<p>Uma fac&ccedil;&atilde;o inimiga se move contra voc&ecirc; ou contra seus amigos. Pague <strong>1 cred</strong> por Categoria da fac&ccedil;&atilde;o, permita a eles mexerem com voc&ecirc; ou revide. Se n&atilde;o tem nenhuma fac&ccedil;&atilde;o com status negativo, voc&ecirc; evita desaven&ccedil;as agora.</p>"
+		},
+		"Ship Trouble": {
+			"name": "Problemas de Nave",
+			"description": "<p>Um sistema de nave pifa. Um sistema (o Mestre dir&aacute; qual) &eacute; danificado.</p> <blockquote> <p>Voc&ecirc; pode reparar o sistema normalmente, embora tenha que lidar com as consequ&ecirc;ncias do dano no momento em que ele ocorrer. Esta complica&ccedil;&atilde;o pode acontecer durante o voo entre planetas ou sistemas ou a caminho/na volta de um trabalho.</p> </blockquote></p>"
+		},
+		"Unquiet Black": {
+			"name": "Vácuo Inquieto",
+			"description": "<p>Um alien&iacute;gena ou criatura do Caminho consegue ir a bordo. Adquira os servi&ccedil;os de um m&iacute;stico ou exterminador para destru&iacute;-lo ou bani-lo, ou lide com isso voc&ecirc; mesmo.</p> <blockquote> <p>Trate a <strong>magnitude da criatura do Caminho como igual &agrave; do n&iacute;vel de procurado da tripula&ccedil;&atilde;o no sistema</strong>. Parasitas, carga que voc&ecirc; n&atilde;o sabia que estava viva, criaturas estranhas se escondendo em rotas n&atilde;o mapeadas e efeitos f&iacute;sicos bizarros por usar seus drives de salto al&eacute;m da capacidade podem se aplicar aqui.</p> </blockquote>"
+		},
+		"Ur Field": {
+			"name": "Campo Ur",
+			"description": "<p>O port&atilde;o de salto mais pr&oacute;ximo chama cada um de voc&ecirc;s em um idioma o qual n&atilde;o conseguem entender. Resista com <strong>Convic&ccedil;&atilde;o</strong> ou receba <strong>dano de n&iacute;vel 1</strong> das vis&otilde;es das quais voc&ecirc; n&atilde;o consegue ignorar.</p> <blockquote> <p>O que voc&ecirc;s decidem fazer com as vis&otilde;es &eacute; com voc&ecirc;s. Elas terminam ap&oacute;s a tripula&ccedil;&atilde;o deixar o sistema ou na pr&oacute;xima folga &ndash; o que ocorrer primeiro.</p> </blockquote>"
+		},
+		"Wanted Level 4": {
+			"name": "Nível de Procurado 4: Nave de Guerra",
+			"description": "<p>O governador envia uma nave de guerra da Legi&atilde;o ou Malklaith para capturar sua nave. Quando voc&ecirc; atinge <strong>n&iacute;vel de procurado 4</strong> em um sistema, a guarda pessoal do governador &eacute; enviada para lev&aacute;-lo &agrave; justi&ccedil;a, e voc&ecirc; ter&aacute; que encontrar uma maneira de escapar. N&atilde;o pode suborn&aacute;-los, e lutar contra eles seria uma temeridade. Em qualquer caso, <strong>se sobreviver</strong> ao encontro, seu <strong>n&iacute;vel de procurado cai em 1</strong> &ndash; os recursos para sua busca n&atilde;o s&atilde;o infinitos.</p> <blockquote> <p>Geralmente, a nave ser&aacute; uma fragata bem armada com alguns ca&ccedil;as pessoais. Voc&ecirc; pode considerar a possibilidade de repintar ou modificar sua nave, ou conseguir documentos e transponders falsos para ajudar a se livrar de experi&ecirc;ncias semelhantes.</p> </blockquote>"
+		}
+	}
+}
