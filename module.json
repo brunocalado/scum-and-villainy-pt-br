@@ -1,15 +1,15 @@
 {
-  "name":"scum-and-villainy-pt-br",
-  "title":"Scum and Villainy - Português (Brasil)",
-  "description":"Tradução para o sistema Scum and Villainy.",
+  "name":"monstro-da-semana-pt-br",
+  "title":"Monstro da Semana - Português (Brasil)",
+  "description":"Tradução para usar com o sistema PbtA Monstro da Semana.",
   "version":"0.2.4",
   "author":"Mestre Digital",
   "minimumCoreVersion":"0.8.9",
   "compatibleCoreVersion":"0.8.9",
   "esmodules": ["babele-register.js"],
-  "url":"https://github.com/brunocalado/scum-and-villainy-pt-br",
-  "manifest": "https://raw.githubusercontent.com/brunocalado/scum-and-villainy-pt-br/main/module.json",
-  "download": "https://codeload.github.com/brunocalado/scum-and-villainy-pt-br/zip/main",
+  "url":"https://github.com/brunocalado/monstro-da-semana-pt-br",
+  "manifest": "https://raw.githubusercontent.com/brunocalado/monstro-da-semana-pt-br/main/module.json",
+  "download": "https://codeload.github.com/brunocalado/monstro-da-semana-pt-br/zip/main",
    "languages":[
       {
          "lang": "pt-BR",
@@ -23,7 +23,7 @@
          "manifest":"https://gitlab.com/riccisi/foundryvtt-babele/raw/master/module/module.json"
       },
       {
-        "name": "scum-and-villainy",
+        "name": "pbta",
         "type": "system"
       }
    ],
@@ -34,49 +34,27 @@
 
   
   "system": [
-    "scum-and-villainy"
+    "pbta"
   ],
   
   "packs": [
-  {
-    "name": "tabelas",
-    "label": "Tabelas",
-    "path": "packs/tabelas.db",
-    "entity": "RollTable",
-    "module": "scum-and-villainy-pt-br",
-    "private": false
-  },
-  {
-    "name": "macros",
-    "label": "Macros",
-    "path": "packs/macros.db",
-    "entity": "Macro",
-    "module": "scum-and-villainy-pt-br",
-    "private": false
-  },
-  {
-    "name": "ajuda-da-traducao",
-    "label": "Ajuda da Tradução",
-    "path": "packs/ajuda-da-traducao.db",
-    "entity": "JournalEntry",
-    "module": "scum-and-villainy-pt-br",
-    "private": false
-  },
-  {
-    "name": "regras",
-    "label": "Regras",
-    "path": "packs/regras.db",
-    "entity": "JournalEntry",
-    "module": "scum-and-villainy-pt-br",
-    "private": false
-  },
-  {
-    "name": "operativo",
-    "label": "Operativo",
-    "path": "packs/operativo.db",
-    "entity": "Item",
-    "module": "scum-and-villainy-pt-br",
-    "private": false
-  }     
+    {
+      "label": "Regras - Monstro da Semana",
+      "entity": "JournalEntry",
+      "name": "regras-monstro-da-semana",
+      "path": "packs/regras-monstro-da-semana.db",
+      "system": "pbta",
+      "package": "world",
+      "private": false
+    },
+    {
+      "label": "Marcas",
+      "entity": "Item",
+      "name": "marcas",
+      "path": "packs/marcas.db",
+      "system": "pbta",
+      "package": "world",
+      "private": false
+    }
   ]
 }
