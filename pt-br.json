@@ -294,7 +294,8 @@
   "BITD.Cost": "Mehorias",
   "BITD.AbilityLegend1": "I = Habilidades iniciais, não dispoível como melhoria de Veterano.",
   "BITD.AbilityLegend2": "R = Habilidade inicial recomendada.",
-
+  "BITD.CrewAbilityLegend": "<br>(A) = Auxiliar, (C) = Comunicação, (Mo) = Motores, (E) = Equipamento, (Ca) = Casco, (T) = Treinamento, (M) = Melhorias, (Ar) = Armas<br><br>Você deve ter pontos livres no sistema <b>(Comunicação, Motores, Casco, Armas)</b> para que a categoria fique disponível.",
+  
   "BITD.item": "Item",
   "BITD.class": "Cartilha",
   "BITD.ability": "Habilidade",
