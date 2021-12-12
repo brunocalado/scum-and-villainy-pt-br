@@ -95,6 +95,7 @@
   "BITD.Description": "Descrição",
   "BITD.CurrLoad": "Carga Atual",
   "BITD.Loadout": "Carga",
+  "BITD.Load": "Carga",
   "BITD.Upgrades": "Melhorias Equipamento",
   "BITD.CrewType": "Tipo de Nave",
   "BITD.UpgradeType": "Tipo de Melhoria",
@@ -104,7 +105,7 @@
   "BITD.Logic": "Lógica",
   "BITD.ExpClues": "Gatilhos de Exp",
   "BITD.AbilityPrice": "Preço da Habilidade",
-  "BITD.AbilityClass": "Ability Class",
+  "BITD.AbilityClass": "Cartilha de Habilidade",
   "BITD.Information": "Informação",
   "BITD.ShipSize": "Tamanho da Nave",
   "BITD.ExpertType": "Tipo de Especialista",
@@ -285,9 +286,18 @@
   "BITD.AddUpgrade": "Adicionar",
   "BITD.AddFriend": "Adicionar",
 
+  "BITD.StartingAbility": "Habilidade Inicial?",
+  "BITD.RecommendedAbility": "Primeira habilidade recomendada?",
+  "BITD.StartAbility": "I",
+  "BITD.RecommAbility": "R",
+  "BITD.Info": "Info",
+  "BITD.Cost": "Mehorias",
+  "BITD.AbilityLegend1": "I = Habilidades iniciais, não dispoível como melhoria de Veterano.",
+  "BITD.AbilityLegend2": "R = Habilidade inicial recomendada.",
+
   "BITD.item": "Item",
   "BITD.class": "Cartilha",
-  "BITD.ability": "Ability",
+  "BITD.ability": "Habilidade",
   "BITD.heritage": "Hereditariedade",
   "BITD.background": "Histórico",
   "BITD.vice": "Vício",
@@ -338,5 +348,7 @@
   "BITD.PlaybookXPBarSize": "Barra de XP para a Cartilha:",
   "BITD.PlaybookXPBarSizeHint": "Número de caixas que a barra de XP de cartilha deve ter.",
   "BITD.CrewXPBarSize": "Barra de XP para a Nave:",
-  "BITD.CrewXPBarSizeHint": "Número de caixas que a barra de XP de nave deve ter."
+  "BITD.CrewXPBarSizeHint": "Número de caixas que a barra de XP de nave deve ter.",  
+  "BITD.LogResourceToChat": "Enviar Mudanças para o Chat:",
+  "BITD.LogResourceToChatHint": "Envia todas as alterações de recursos de nave (Cred, Débito, Gambitos) para o chat."
 }
