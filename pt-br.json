@@ -322,11 +322,13 @@
    
     
   "BITD.ActionsHelp": "Role 1d para cada ponto de valor da ação (-1d por dano).  Aumente suas chances de sucesso com as seguintes opções:<br><strong>Obtenha Assistência:</strong> +1d se outro membro da tripulação o ajudar, então aquele PC toma <strong>1 estresse</strong>.<br><strong>Gaste um Gambito:</strong> +1d se gastar <strong>1 gambito</strong> (só pode gastar 1 por rolagem).<br><strong>Esforço Extra:</strong> Receba <strong>2 estresse</strong> para ter +1d, mas você não pode fazer <strong>Acordo com o Diabo</strong>.<br><strong>Acordo com o Diabo:</strong> Aceite uma <strong>consequencia</strong> para obter +1d, mas você não pode fazer <strong>Esforço Extra</strong>.<br><strong>Ação Coletiva:</strong> Cada PJ envolvido faz uma rolagem de ação (usando a mesma ação) e a equipe usa o melhor resultado individual como o esforço geral. No entanto, o PJ que lidera a ação do grupo recebe <strong>1 de estresse</strong> para cada PJ que tenha obtido 1-3 como seu melhor resultado.<br><strong>Facilitar:</strong> Se sua ação for sucesso, qualquer membro da equipe que segue em sua manobra recebe +1 efeito ou posição melhorada para sua jogada.",
+  
   "BITD.ViceHelp": "Faça uma rolagem de atributo usando o nível de <strong>atributo mais baixo</strong> de seu PJ (Esperteza, Valentia ou Convicção).<br><br>Se você rolar um resultado superior à quantidade de estresse do PJ, ele <strong>Passa da Conta</strong>.",
   
   "BITD.ResistanceHelp": "Faça a rolagem usando um dos atributos (Esperteza, Valentia ou Convicção) para <strong>reduzir</strong> ou <strong>evitar</strong> (Escolha do Mestre) os efeitos das consequências.<br><br>Seu personagem sofre 6 de <strong>Estresse</strong> menos o resultado do dado mais alto da rolagem de resistência.<br><br><strong>Esperteza:</strong> Consequências de engano ou compreensão.<br><strong>Valentia:</strong> Consequências de esforço físico ou lesão.<br><strong>Convicção:</strong> Consequências de tensão mental ou força de vontade.",
   
-  "BITD.CrewHelp": "Roll 1d per crew rating to test the effectiveness of tools, weapons, or resources.  Add +1d for <strong>fine</strong> items.",
+  "BITD.CrewHelp": "Role 1d por qualidade de tripulação para testar a efetividade de ferramentas, armas ou recursos. Adicione +1d para <strong>itens superiores</strong>.",
+  
   "BITD.UpkeepHelp": "Role 1d para cada vez que pular o pagamento de manutenção (incluindo esse). Isso vai refletir desgaste e dano em sua nave que poderá ter consequências futuras.",
  
   "BITD.Name": "Nome",
