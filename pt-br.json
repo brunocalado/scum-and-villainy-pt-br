@@ -271,6 +271,9 @@
   "BITD.SystemsDamage": "Dano",
   "BITD.SystemsSkips": "Calotes",
 
+  "BITD.ItemDamaged": "foi <strong>Danificado</strong>",
+  "BITD.ItemRepaired": "foi <strong>Reparado</strong>",
+
   "BITD.PExperience": "XP ",
   "BITD.CExperience": "XP da Tripulação ",
   "BITD.AExperience": "XP ",
