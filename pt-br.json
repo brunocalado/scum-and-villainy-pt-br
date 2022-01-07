@@ -245,8 +245,8 @@
   "BITD.SkillsSway": "Convencer",
   "BITD.SkillsSwayTip": "Ao Convencer, você influencia alguém com astúcia, charme ou lógica.",
 
-  "BITD.SystemsCrew": "Tripulação",
-  "BITD.SkillsCrewTip": "Crew Quality reflects the effectiveness of tools, weapons, or other resources available to your crew.",
+  "BITD.SystemsCrew": "Qualidade",
+  "BITD.SkillsCrewTip": "Qualidade de Tripulação reflete a efetividade das ferramentas, armas e outros recursos disponíveis para a tripulação.",
   "BITD.SystemsUpkeep": "Manutenção",
   "BITD.SkillsUpkeepTip": "Manutenção representa o custo de manter a nave. Role manutenção toda vez que não pagar esse custo após um trabalho.",
   "BITD.SystemsEngines": "Motores",
