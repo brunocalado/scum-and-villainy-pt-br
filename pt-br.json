@@ -172,18 +172,17 @@
 
 
   "BITD.RollGreatEffect": "Efeito Sensacional",
-  "BITD.RollGreatEffectDescription": "Resultado excepcional / Efeito Sensacional, extremo.<br><br>Se for uma <strong>Rolagem de Abertura</strong>: Você supera o primeiro obstáculo e se estabelece em uma posição <strong>controlada</strong> para o próximo.<br><br>Se estiver marcando relógios de cura ou de facção, marque <strong>5</strong> segmentos.",
+  "BITD.RollGreatEffectDescription": "Resultado excepcional / Efeito Sensacional, extremo.<br><br><strong>Rolagem de Abertura:</strong> Você supera o primeiro obstáculo e se estabelece em uma posição <strong>controlada</strong> para o próximo.<br><br><strong>Relógios de Cura ou Facção:</strong> marque <strong>5</strong> segmentos.<br><br><strong>Levantar Infomações:</strong> Detalhes excepcionais. As informações estão completas e as perguntas subsequentes podem se expandir para áreas relacionadas ou revelar mais do que o esperado.",
 
   "BITD.RollStandardEffect": "Efeito Padrão",
-  "BITD.RollStandardEffectDescription": "Bom resultado / Efeito, padrão completo.<br><br>Se for uma <strong>Rolagem de Abertura</strong>: Você começa a ação em uma posição controlada.<br><br>Se estiver marcando relógios de cura ou de facção, marque <strong>3</strong> segmentos.",
+  "BITD.RollStandardEffectDescription": "Bom resultado / Efeito, padrão completo.<br><br><strong>Rolagem de Abertura:</strong> Você começa a ação em uma posição <strong>Controlada</strong>.<br><br><strong>Relógios de Cura ou Facção:</strong> marque <strong>3</strong> segmentos.<br><br><strong>Levantar Infomações:</strong> Bons detalhes. Perguntas esclarecedoras e subsequentes são possíveis.",
 
   "BITD.RollLimitedEffect": "Efeito Limitado",
-  "BITD.RollLimitedEffectDescription": "Resultado médio / Efeito limitado, parcial.<br><br>Se for uma <strong>Rolagem de Abertura</strong>: Você começa a ação em uma posição <strong>arriscada</strong>.<br><br>Se estiver marcando relógios de cura ou de facção, marque <strong>2</strong> segmentos.",
+  "BITD.RollLimitedEffectDescription": "Resultado médio / Efeito limitado, parcial.<br><br><strong>Rolagem de Abertura:</strong> Você começa a ação em uma posição <strong>Arriscada</strong>.<br><br><strong>Relógios de Cura ou Facção:</strong> marque <strong>2</strong> segmentos.<br><br><strong>Levantar Infomações:</strong> Obtém informações incompletas ou parciais. Será necessário levantar mais informações para obter todas as respostas.",
 
   "BITD.RollPoorEffect": "Efeito Fraco",
-  "BITD.RollPoorEffectDescription": "Resultado ruim / Efeito fraco, pequeno.<br><br>Se for uma <strong>Rolagem de Abertura</strong>: Você começa a ação em uma posição <strong>desesperada</strong>.<br>Boa sorte!<br><br>Se estiver marcando relógios de cura ou de facção, marque <strong>1</strong> segmento.",
+  "BITD.RollPoorEffectDescription": "Resultado ruim / Efeito fraco, pequeno.<br><br><strong>Rolagem de Abertura</strong>: Você começa a ação em uma posição <strong>desesperada</strong>. Boa sorte!<br><br><strong>Relógios de Cura ou Facção:</strong> marque <strong>1</strong> segmento.<br><br><strong>Levantar Infomações:</strong> Obtém uma simples pista ou dica. Será necessário levantar mais informações para obter todas as respostas.",
   
-
   "BITD.RollResist": "Resistência",
   "BITD.RollResistDescription": "Você <strong>reduz</strong> ou <strong>evita</strong> os efeitos da consequência (o Mestre decide).<br><br>Sofra 6 de estresse menos o resultado mais alto (ou menor ser for uma rolagem de zero) da rolagem, o que seria <strong>",
   "BITD.RollCritResist": "Crítico na Resistência",
