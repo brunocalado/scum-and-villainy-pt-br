@@ -1,4 +1,4 @@
-/* - v1.1
+/* - v1.2
 Source:
 Icon: 
 */
@@ -22,8 +22,7 @@ async function drawNameFromTable(tableName) {
     return;
   }
   const output = await table.roll();
-  const result = output.results[0].data.text;
-  return result;  
+  return output.results[0].text;
 }
 
 async function drawJournalFromTable(journalName) {
@@ -36,7 +35,7 @@ async function drawJournalFromTable(journalName) {
     return;
   }
 
-  return table.data.content;  
+  return table.content;  
 }
 
 function addEventListenerOnHtmlElement(element, event, func){    

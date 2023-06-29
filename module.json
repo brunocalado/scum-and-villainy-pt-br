@@ -1,100 +1,106 @@
 {
-  "name":"scum-and-villainy-pt-br",
+  "id":"scum-and-villainy-pt-br",
   "title":"Scum and Villainy - Português (Brasil)",
   "description":"Tradução para o sistema Scum and Villainy.",
-  "version":"0.4.1",
-  "author":"Mestre Digital",
-  "minimumCoreVersion":"0.8.9",
-  "compatibleCoreVersion":"9",
-  "esmodules": ["babele-register.js"],
-  "url":"https://github.com/brunocalado/scum-and-villainy-pt-br",
-  "manifest": "https://raw.githubusercontent.com/brunocalado/scum-and-villainy-pt-br/main/module.json",
-  "download": "https://codeload.github.com/brunocalado/scum-and-villainy-pt-br/zip/main",
-   "languages":[
+  
+  "version":"0.5.1",  
+  "authors":[
+    {
+      "name":"Mestre Digital",
+      "url":"https://youtube.com/mestredigital"
+    }
+  ],
+  
+  "compatibility":{
+    "minimum":11,
+    "verified":"11"
+  },
+  
+  "esmodules":[
+    "babele-register.js"
+  ],
+  
+  "languages":[
+    {
+      "lang":"pt-BR",
+      "name":"Português (Brasil)",
+      "path":"pt-br.json"
+    }
+  ],
+  
+  "relationships":{
+    "requires":[
       {
-         "lang": "pt-BR",
-         "name": "Português (Brasil)",
-         "path":"pt-br.json"
+        "id":"babele",
+        "type":"module",
+        "manifest":"https://gitlab.com/riccisi/foundryvtt-babele/raw/master/module/module.json"
       }
-   ],
-   "dependencies":[
+    ],
+    "systems":[
       {
-         "name":"babele",
-         "manifest":"https://gitlab.com/riccisi/foundryvtt-babele/raw/master/module/module.json"
-      },
-      {
-        "name": "scum-and-villainy",
-        "type": "system"
+        "id":"scum-and-villainy"
       }
-   ],
-
- "styles": [
+    ]
+  },
+  
+  "styles":[
     "./styles/style.css"
   ],
 
-  
-  "system": [
-    "scum-and-villainy"
+  "packs":[
+    {
+      "name":"tabelas",
+      "label":"Tabelas",
+      "path":"packs/tabelas",
+      "type":"RollTable",
+      "module":"scum-and-villainy-pt-br"
+    },
+    {
+      "name":"macros",
+      "label":"Macros",
+      "path":"packs/macros",
+      "type":"Macro",
+      "module":"scum-and-villainy-pt-br"
+    },
+    {
+      "name":"ajuda-da-traducao",
+      "label":"Ajuda da Tradução",
+      "path":"packs/ajuda-da-traducao",
+      "type":"JournalEntry",
+      "module":"scum-and-villainy-pt-br"
+    },
+    {
+      "name":"regras",
+      "label":"Regras",
+      "path":"packs/regras.db",
+      "type":"JournalEntry",
+      "module":"scum-and-villainy-pt-br"
+    },
+    {
+      "name":"operativo",
+      "label":"Operativo",
+      "path":"packs/operativo",
+      "type":"Item",
+      "system": "scum-and-villainy",
+      "module":"scum-and-villainy-pt-br"
+    },
+    {
+      "name":"acordo-com-o-diabo",
+      "label":"Acordo com o Diabo",
+      "path":"packs/acordo-com-o-diabo",
+      "type":"JournalEntry",
+      "module":"scum-and-villainy-pt-br"
+    },
+    {
+      "name":"consequencias-e-danos",
+      "label":"Consequências e Danos",
+      "path":"packs/consequencias-e-danos",
+      "type":"JournalEntry",
+      "module":"scum-and-villainy-pt-br"
+    }
   ],
   
-  "packs": [
-  {
-    "name": "tabelas",
-    "label": "Tabelas",
-    "path": "packs/tabelas.db",
-    "entity": "RollTable",
-    "module": "scum-and-villainy-pt-br",
-    "private": false
-  },
-  {
-    "name": "macros",
-    "label": "Macros",
-    "path": "packs/macros.db",
-    "entity": "Macro",
-    "module": "scum-and-villainy-pt-br",
-    "private": false
-  },
-  {
-    "name": "ajuda-da-traducao",
-    "label": "Ajuda da Tradução",
-    "path": "packs/ajuda-da-traducao.db",
-    "entity": "JournalEntry",
-    "module": "scum-and-villainy-pt-br",
-    "private": false
-  },
-  {
-    "name": "regras",
-    "label": "Regras",
-    "path": "packs/regras.db",
-    "entity": "JournalEntry",
-    "module": "scum-and-villainy-pt-br",
-    "private": false
-  },
-  {
-    "name": "operativo",
-    "label": "Operativo",
-    "path": "packs/operativo.db",
-    "entity": "Item",
-    "module": "scum-and-villainy-pt-br",
-    "private": false
-  },
-  {
-    "name": "acordo-com-o-diabo",
-    "label": "Acordo com o Diabo",
-    "path": "packs/acordo-com-o-diabo.db",
-    "entity": "JournalEntry",
-    "module": "scum-and-villainy-pt-br",
-    "private": false
-  },
-  {
-    "name": "consequencias-e-danos",
-    "label": "Consequências e Danos",
-    "path": "packs/consequencias-e-danos.db",
-    "entity": "JournalEntry",
-    "module": "scum-and-villainy-pt-br",
-    "private": false
-  }        
-  ]
+  "url":"https://github.com/brunocalado/scum-and-villainy-pt-br",
+  "manifest":"https://raw.githubusercontent.com/brunocalado/scum-and-villainy-pt-br/main/module.json",
+  "download":"https://codeload.github.com/brunocalado/scum-and-villainy-pt-br/zip/main"
 }
-
-

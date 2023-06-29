@@ -1,4 +1,4 @@
-const version = 'v1.2';
+const version = 'v1.3';
 
 /* Patch Actors
 
@@ -10,8 +10,8 @@ icon: icons/tools/smithing/hammer-sledge-steel-grey.webp
 */
 
 let message=``;
-let characters = game.actors.contents.filter(e => e.data.type === 'character');
-let ships = game.actors.contents.filter(e => e.data.type === 'ship');
+let characters = game.actors.contents.filter(e => e.type === 'character');
+let ships = game.actors.contents.filter(e => e.type === 'ship');
 
 if (characters==undefined && ships==undefined) {
   ui.notifications.warn("You don't have characters or ships!");    
@@ -24,9 +24,9 @@ if (characters==undefined && ships==undefined) {
   if (characters!=undefined) {
     for(const character of characters) {
       for (var i=0; i<=effects.length; i++) {     
-        const effect = character.effects.find(e => e.data.label === effects[i]);
+        const effect = character.effects.find(e => e.label === effects[i]);
         if (effect!=undefined) {
-          let changes = duplicate(effect.data.changes);        
+          let changes = duplicate(effect.changes);        
           const playbookName = changes[0].value;
           if ( playbooks.includes(playbookName) ) {
             changes[0].value = translatePlaybook(playbookName);
@@ -47,14 +47,14 @@ if (characters==undefined && ships==undefined) {
   if (ships!=undefined) {
     for(const ship of ships) {
       for (var i=0; i<=effectsShip.length; i++) {     
-        const effect = ship.effects.find(e => e.data.label === effectsShip[i]);
+        const effect = ship.effects.find(e => e.label === effectsShip[i]);
         if (effect!=undefined) {
-          let changes = duplicate(effect.data.changes); // ALL EFFECTS
+          let changes = duplicate(effect.changes); // ALL EFFECTS
           let changesBut = changes.filter(e => e.key !== 'data.ship_class'); // all effects but the one that will be changed.                 
           let selectedEffect = changes.find(e => e.key === 'data.ship_class');
           let selectedEffect2 = changes.find(e => e.key === 'data.designation');
           let playbookName = selectedEffect.value;
-          //console.log(playbookName);
+          console.log(playbookName);
           if ( playbooksShip.includes(playbookName) ) {
             selectedEffect.value = translateShip(playbookName);
             selectedEffect2.value = translateShipDesignation(playbookName);
