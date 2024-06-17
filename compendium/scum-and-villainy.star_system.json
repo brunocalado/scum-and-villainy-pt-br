@@ -1,8 +1,8 @@
 {
 	"label": "Sistemas Estelares",
   "mapping": {
-    "description": "data.description",
-    "notables": "data.notables"
+    "description": "system.description",
+    "notables": "system.notables"
   }, 
   
 	"entries": {

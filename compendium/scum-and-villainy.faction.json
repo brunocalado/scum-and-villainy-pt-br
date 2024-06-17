@@ -1,16 +1,16 @@
 {
 	"label": "Facções",
   "mapping": {
-    "description": "data.description",
-    "type": "data.type",    
-    "goal": "data.goal",    
-    "notables": "data.notables",    
-    "turf": "data.turf",    
-    "assets": "data.assets",  
-    "quirks": "data.quirks",  
-    "allies": "data.allies",  
-    "enemies": "data.enemies",  
-    "situation": "data.situation"    
+    "description": "system.description",
+    "type": "system.type",    
+    "goal": "system.goal",    
+    "notables": "system.notables",    
+    "turf": "system.turf",    
+    "assets": "system.assets",  
+    "quirks": "system.quirks",  
+    "allies": "system.allies",  
+    "enemies": "system.enemies",  
+    "situation": "system.situation"    
   },
   
 	"entries": {

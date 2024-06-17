@@ -1,8 +1,8 @@
 {
 	"label": "Módulos de Nave",
   "mapping": {
-    "description": "data.description",
-    "class":"data.class"
+    "description": "system.description",
+    "class":"system.class"
   },
 
 	"entries": {

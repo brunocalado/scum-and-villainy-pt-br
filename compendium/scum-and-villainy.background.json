@@ -1,7 +1,7 @@
 {
 	"label": "Histórico",
   "mapping": {
-    "description": "data.description"
+    "description": "system.description"
   },
   
 	"entries": {

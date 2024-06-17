@@ -1,7 +1,7 @@
 {
 	"label": "Reputação da Tripulação",
   "mapping": {
-    "description": "data.description"
+    "description": "system.description"
   }, 
   
 	"entries": {

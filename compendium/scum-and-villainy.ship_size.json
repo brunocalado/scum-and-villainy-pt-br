@@ -1,7 +1,7 @@
 {
 	"label": "Tamanhos de Nave",
   "mapping": {
-    "description": "data.description"
+    "description": "system.description"
   },  
  
 	"entries": {

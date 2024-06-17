@@ -1,9 +1,9 @@
 {
 	"label": "Tipos de Nave",
   "mapping": {
-    "description": "data.description",
-    "experience_clues": "data.experience_clues",
-    "def_abilities": "data.def_abilities"
+    "description": "system.description",
+    "experience_clues": "system.experience_clues",
+    "def_abilities": "system.def_abilities"
   },  
 
 	"entries": {
